@@ -49,6 +49,7 @@ async function fetchWikiHTML(article) {
 
 function cleanText(el, $) {
   $(el).find("sup").remove();
+  $(el).find("style").remove();
   return $(el)
     .text()
     .trim()
