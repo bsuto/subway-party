@@ -123,8 +123,9 @@ export default function Calendar() {
 
   const monthMap = useMemo(() => buildMonthMap(selectedMonth), [selectedMonth]);
 
-  const daysInMonth = new Date(2000, selectedMonth, 0).getDate();
-  const firstDayOfWeek = new Date(2000, selectedMonth - 1, 1).getDay();
+  const currentYear = now.getFullYear();
+  const daysInMonth = new Date(currentYear, selectedMonth, 0).getDate();
+  const firstDayOfWeek = new Date(currentYear, selectedMonth - 1, 1).getDay();
 
   const totalBirthdays = useMemo(() => {
     let total = 0;
