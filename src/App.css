@@ -198,11 +198,7 @@
   font-size: 11px;
 }
 
-.day-detail-badges {
-  display: flex;
-  gap: 2px;
-  flex-shrink: 0;
-}
+
 
 .station-date,
 .station-age {
@@ -659,6 +655,16 @@
 .day-detail-station-name {
   color: var(--text-h);
   font-weight: 500;
+  min-width: 0;
+}
+
+.day-detail-badges {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2px;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  max-width: 50%;
 }
 
 

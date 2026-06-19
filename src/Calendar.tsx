@@ -78,8 +78,7 @@ function DayDetail({
                   <div>
                     <span className="day-detail-group-system">{sys.name}</span>
                     <span className="day-detail-group-meta">
-                      {year} &middot; {age} years ago &middot;{" "}
-                      {group[0].line || "Multiple lines"}
+                      {year} &middot; {age} years ago
                     </span>
                   </div>
                 </div>
