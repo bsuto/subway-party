@@ -77,7 +77,7 @@ function cleanText(el, $) {
     .trim()
     .replace(/\s+/g, " ")
     .replace(/[​‌‍﻿]/g, "") // zero-width chars
-    .replace(/[†ⓉⒷ♿✦●★◆▲■⬤]/g, "")           // Wikipedia annotation symbols
+    .replace(/[†ⓉⒷ♿✦●★◆▲■⬤*^]/g, "")          // Wikipedia annotation symbols
     .replace(/\s+/g, " ")
     .trim();
 }
