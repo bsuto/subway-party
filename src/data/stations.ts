@@ -741,7 +741,7 @@ export const stations: Station[] = [
   { name: "Reston Town Center", system: "wmata", line: "Silver", opened: "2022-11-15" },
   { name: "Rhode Island Avenue", system: "wmata", line: "Red", opened: "1976-03-29" },
   { name: "Rockville", system: "wmata", line: "Red", opened: "1984-12-15" },
-  { name: "Ronald Reagan WashingtonNational Airport", system: "wmata", line: "Yellow, Blue", opened: "1977-07-01" },
+  { name: "Washington National Airport", system: "wmata", line: "Yellow, Blue", opened: "1977-07-01" },
   { name: "Rosslyn*", system: "wmata", line: "Orange, Silver, Blue", opened: "1977-07-01" },
   { name: "Shady Grove", system: "wmata", line: "Red", opened: "1984-12-15" },
   { name: "Shaw–Howard University", system: "wmata", line: "Yellow, Green", opened: "1991-05-11" },
