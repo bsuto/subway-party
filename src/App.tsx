@@ -274,20 +274,29 @@ function App() {
                 >
                   All Lines
                 </button>
-                {availableLines.map((lb) => (
-                  <button
-                    key={lb.label}
-                    className={`line-filter-btn${selectedLine === lb.label ? " active" : ""}`}
-                    onClick={() => setSelectedLine(selectedLine === lb.label ? null : lb.label)}
-                    style={
-                      selectedLine === lb.label
-                        ? { backgroundColor: lb.bg, borderColor: lb.bg, color: lb.fg }
-                        : {}
-                    }
-                  >
-                    {lb.label}
-                  </button>
-                ))}
+                {availableLines.map((lb) => {
+                  // Parse hex color to rgb for alpha
+                  const hex = lb.bg.replace("#", "");
+                  const r = parseInt(hex.substring(0, 2), 16);
+                  const g = parseInt(hex.substring(2, 4), 16);
+                  const b = parseInt(hex.substring(4, 6), 16);
+                  const hoverBg = `rgba(${r}, ${g}, ${b}, 0.2)`;
+
+                  return (
+                    <button
+                      key={lb.label}
+                      className={`line-filter-btn${selectedLine === lb.label ? " active" : ""}`}
+                      onClick={() => setSelectedLine(selectedLine === lb.label ? null : lb.label)}
+                      style={
+                        selectedLine === lb.label
+                          ? { backgroundColor: lb.bg, borderColor: lb.bg, color: lb.fg }
+                          : { borderColor: lb.bg, "--line-hover-bg": hoverBg } as React.CSSProperties
+                      }
+                    >
+                      {lb.label}
+                    </button>
+                  );
+                })}
               </div>
             )}
 

@@ -308,14 +308,22 @@
   font-family: var(--sans);
 }
 
+.line-filter .line-filter-btn {
+  /* border-color set via inline style */
+  background: transparent;
+}
+
+.line-filter .line-filter-btn:hover {
+  /* --line-color is set via inline style for the hover background */
+  background: var(--line-hover-bg);
+}
+
 .line-filter button:hover {
-  border-color: var(--accent-border);
+  color: var(--text-h);
 }
 
 .line-filter button.active {
-  background: var(--accent);
-  border-color: var(--accent);
-  color: white;
+  /* bg, border-color, color set via inline style */
 }
 
 /* Browse Controls */

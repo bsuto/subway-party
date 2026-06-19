@@ -132,12 +132,14 @@ function parseNycLine(lineStr: string): LineBadge[] {
     return [{ label: lineStr, bg: "#666", fg: "#fff" }];
   }
 
-  // Sort: numbers first, then letters
+  // Sort in official NYC system order
+  const nycOrder = "A C E B D F M G L J Z N Q R W S 1 2 3 4 5 6 7".split(" ");
   const sorted = [...routeSet].sort((a, b) => {
-    const aNum = /^\d/.test(a);
-    const bNum = /^\d/.test(b);
-    if (aNum && !bNum) return -1;
-    if (!aNum && bNum) return 1;
+    const ai = nycOrder.indexOf(a);
+    const bi = nycOrder.indexOf(b);
+    if (ai !== -1 && bi !== -1) return ai - bi;
+    if (ai !== -1) return -1;
+    if (bi !== -1) return 1;
     return a.localeCompare(b);
   });
 
@@ -303,14 +305,20 @@ export function getAllLinesForSystem(
     }
   }
 
-  // Sort: numbers first (for NYC), then alphabetical
-  return result.sort((a, b) => {
-    const aNum = /^\d/.test(a.label);
-    const bNum = /^\d/.test(b.label);
-    if (aNum && !bNum) return -1;
-    if (!aNum && bNum) return 1;
-    return a.label.localeCompare(b.label);
-  });
+  // NYC uses official system ordering; other systems sort alphabetically
+  if (system === "nyc") {
+    const nycOrder = "A C E B D F M G L J Z N Q R W S 1 2 3 4 5 6 7".split(" ");
+    return result.sort((a, b) => {
+      const ai = nycOrder.indexOf(a.label);
+      const bi = nycOrder.indexOf(b.label);
+      if (ai !== -1 && bi !== -1) return ai - bi;
+      if (ai !== -1) return -1;
+      if (bi !== -1) return 1;
+      return a.label.localeCompare(b.label);
+    });
+  }
+
+  return result.sort((a, b) => a.label.localeCompare(b.label));
 }
 
 /**
