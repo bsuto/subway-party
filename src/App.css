@@ -114,6 +114,7 @@
 
 /* Station Card */
 .station-card {
+  position: relative;
   background: var(--card-bg);
   border: 1px solid var(--border);
   border-left: 4px solid var(--accent);
@@ -199,6 +200,41 @@
 }
 
 
+
+/* Station Links (Wikipedia / Map) */
+.station-links {
+  position: absolute;
+  bottom: 8px;
+  right: 8px;
+  display: flex;
+  gap: 6px;
+  opacity: 0;
+  transition: opacity 0.15s;
+}
+
+.station-card:hover .station-links {
+  opacity: 1;
+}
+
+.station-link {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 28px;
+  height: 28px;
+  border-radius: 6px;
+  color: var(--text-muted);
+  background: var(--accent-bg);
+  border: 1px solid var(--border);
+  transition: all 0.15s;
+  text-decoration: none;
+}
+
+.station-link:hover {
+  color: var(--accent);
+  border-color: var(--accent-border);
+  background: var(--card-bg);
+}
 
 .station-date,
 .station-age {

@@ -3,2077 +3,2423 @@
     "name": "First Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "First_Avenue_station_(BMT_Canarsie_Line)"
   },
   {
     "name": "Second Avenue",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1936-01-01"
+    "opened": "1936-01-01",
+    "wiki": "Second_Avenue_station"
   },
   {
     "name": "Third Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "Third_Avenue_station_(BMT_Canarsie_Line)"
   },
   {
     "name": "Third Avenue–138th Street",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1918-08-01"
+    "opened": "1918-08-01",
+    "wiki": "Third_Avenue–138th_Street_station"
   },
   {
     "name": "Third Avenue–149th Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1905-07-10"
+    "opened": "1905-07-10",
+    "wiki": "Third_Avenue–149th_Street_station"
   },
   {
     "name": "Fourth Avenue/Ninth Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Fourth_Avenue/Ninth_Street_station"
   },
   {
     "name": "Fifth Avenue/53rd Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-11-01"
+    "opened": "1933-11-01",
+    "wiki": "Fifth_Avenue/53rd_Street_station"
   },
   {
     "name": "Fifth Avenue–59th Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1919-09-01"
+    "opened": "1919-09-01",
+    "wiki": "Fifth_Avenue–59th_Street_station"
   },
   {
     "name": "Seventh Avenue",
     "system": "nyc",
     "line": "Sixth Avenue Line,Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Seventh_Avenue_station_(IND_lines)"
   },
   {
     "name": "Eighth Avenue",
     "system": "nyc",
     "line": "Sea Beach Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Eighth_Avenue_station_(BMT_Sea_Beach_Line)"
   },
   {
     "name": "Eighth Street–New York University",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1917-09-04"
+    "opened": "1917-09-04",
+    "wiki": "Eighth_Street–New_York_University_station"
   },
   {
     "name": "Ninth Avenue",
     "system": "nyc",
     "line": "West End Line",
-    "opened": "1916-06-24"
+    "opened": "1916-06-24",
+    "wiki": "Ninth_Avenue_station"
   },
   {
     "name": "14th Street/Sixth Avenue",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1940-12-15"
+    "opened": "1940-12-15",
+    "wiki": "14th_Street/Sixth_Avenue_station"
   },
   {
     "name": "14th Street/Eighth Avenue",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "14th_Street/Eighth_Avenue_station"
   },
   {
     "name": "14th Street–Union Square",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1917-09-04"
+    "opened": "1917-09-04",
+    "wiki": "14th_Street–Union_Square_station"
   },
   {
     "name": "15th Street–Prospect Park",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1933-10-07"
+    "opened": "1933-10-07",
+    "wiki": "15th_Street–Prospect_Park_station"
   },
   {
     "name": "18th Avenue",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "18th_Avenue_station_(IND_Culver_Line)"
   },
   {
     "name": "18th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "18th_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "20th Avenue",
     "system": "nyc",
     "line": "Sea Beach Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "20th_Avenue_station_(BMT_Sea_Beach_Line)"
   },
   {
     "name": "21st Street",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "21st_Street_station_(IND_Crosstown_Line)"
   },
   {
     "name": "21st Street–Queensbridge",
     "system": "nyc",
     "line": "63rd Street Line",
-    "opened": "1989-10-29"
+    "opened": "1989-10-29",
+    "wiki": "21st_Street–Queensbridge_station"
   },
   {
     "name": "23rd Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1940-12-15"
+    "opened": "1940-12-15",
+    "wiki": "23rd_Street_station_(IND_Sixth_Avenue_Line)"
   },
   {
     "name": "23rd Street–Baruch College",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "23rd_Street–Baruch_College_station"
   },
   {
     "name": "25th Avenue",
     "system": "nyc",
     "line": "West End Line",
-    "opened": "1916-07-29"
+    "opened": "1916-07-29",
+    "wiki": "25th_Avenue_station"
   },
   {
     "name": "25th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "25th_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "28th Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1918-01-05"
+    "opened": "1918-01-05",
+    "wiki": "28th_Street_station_(BMT_Broadway_Line)"
   },
   {
     "name": "30th Avenue",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "30th_Avenue_station"
   },
   {
     "name": "33rd Street",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "33rd_Street_station_(IRT_Lexington_Avenue_Line)"
   },
   {
     "name": "33rd Street–Rawson Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "33rd_Street–Rawson_Street_station"
   },
   {
     "name": "34th Street–Herald Square",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1940-12-15"
+    "opened": "1940-12-15",
+    "wiki": "34th_Street–Herald_Square_station"
   },
   {
     "name": "34th Street–Hudson Yards",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "2015-09-13"
+    "opened": "2015-09-13",
+    "wiki": "34th_Street–Hudson_Yards_station"
   },
   {
     "name": "34th Street–Penn Station",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "34th_Street–Penn_Station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "36th Avenue",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "36th_Avenue_station"
   },
   {
     "name": "36th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "36th_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "39th Avenue",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "39th_Avenue_station_(BMT_Astoria_Line)"
   },
   {
     "name": "40th Street–Lowery Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "40th_Street–Lowery_Street_station"
   },
   {
     "name": "42nd Street–Bryant Park/Fifth Avenue",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1940-12-15"
+    "opened": "1940-12-15",
+    "wiki": "42nd_Street–Bryant_Park/Fifth_Avenue_station"
   },
   {
     "name": "42nd Street–Port Authority Bus Terminal",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "42nd_Street–Port_Authority_Bus_Terminal_station"
   },
   {
     "name": "45th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-09-22"
+    "opened": "1915-09-22",
+    "wiki": "45th_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "46th Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "46th_Street_station_(IND_Queens_Boulevard_Line)"
   },
   {
     "name": "46th Street–Bliss Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "46th_Street–Bliss_Street_station"
   },
   {
     "name": "47th–50th Streets–Rockefeller Center",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1940-12-15"
+    "opened": "1940-12-15",
+    "wiki": "47th–50th_Streets–Rockefeller_Center_station"
   },
   {
     "name": "49th Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1919-07-10"
+    "opened": "1919-07-10",
+    "wiki": "49th_Street_station_(BMT_Broadway_Line)"
   },
   {
     "name": "50th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line,Queens Boulevard Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "50th_Street_station_(IND_lines)"
   },
   {
     "name": "52nd Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "52nd_Street_station_(IRT_Flushing_Line)"
   },
   {
     "name": "53rd Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-09-22"
+    "opened": "1915-09-22",
+    "wiki": "53rd_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "55th Street",
     "system": "nyc",
     "line": "West End Line",
-    "opened": "1916-06-24"
+    "opened": "1916-06-24",
+    "wiki": "55th_Street_station"
   },
   {
     "name": "57th Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1968-07-01"
+    "opened": "1968-07-01",
+    "wiki": "57th_Street_station_(IND_Sixth_Avenue_Line)"
   },
   {
     "name": "57th Street–Seventh Avenue",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1919-07-10"
+    "opened": "1919-07-10",
+    "wiki": "57th_Street–Seventh_Avenue_station"
   },
   {
     "name": "59th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "59th_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "59th Street–Columbus Circle",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "59th_Street–Columbus_Circle_station"
   },
   {
     "name": "61st Street–Woodside",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "61st_Street–Woodside_station"
   },
   {
     "name": "62nd Street/New Utrecht Avenue",
     "system": "nyc",
     "line": "Sea Beach Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "62nd_Street/New_Utrecht_Avenue_station"
   },
   {
     "name": "63rd Drive–Rego Park",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "63rd_Drive–Rego_Park_station"
   },
   {
     "name": "65th Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "65th_Street_station_(IND_Queens_Boulevard_Line)"
   },
   {
     "name": "66th Street–Lincoln Center",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "66th_Street–Lincoln_Center_station"
   },
   {
     "name": "67th Avenue",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "67th_Avenue_station"
   },
   {
     "name": "68th Street–Hunter College",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1918-07-17"
+    "opened": "1918-07-17",
+    "wiki": "68th_Street–Hunter_College_station"
   },
   {
     "name": "69th Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "69th_Street_station_(IRT_Flushing_Line)"
   },
   {
     "name": "71st Street",
     "system": "nyc",
     "line": "West End Line",
-    "opened": "1916-06-24"
+    "opened": "1916-06-24",
+    "wiki": "71st_Street_station"
   },
   {
     "name": "72nd Street",
     "system": "nyc",
     "line": "Second Avenue Line",
-    "opened": "2017-01-01"
+    "opened": "2017-01-01",
+    "wiki": "72nd_Street_station_(Second_Avenue_Subway)"
   },
   {
     "name": "75th Avenue",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "75th_Avenue_station"
   },
   {
     "name": "75th Street–Elderts Lane",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1917-05-28"
+    "opened": "1917-05-28",
+    "wiki": "75th_Street–Elderts_Lane_station"
   },
   {
     "name": "77th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1916-01-15"
+    "opened": "1916-01-15",
+    "wiki": "77th_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "79th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "79th_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "80th Street",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1915-09-25"
+    "opened": "1915-09-25",
+    "wiki": "80th_Street_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "81st Street–Museum of Natural History",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "81st_Street–Museum_of_Natural_History_station"
   },
   {
     "name": "82nd Street–Jackson Heights",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "82nd_Street–Jackson_Heights_station"
   },
   {
     "name": "85th Street–Forest Parkway",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1917-05-28"
+    "opened": "1917-05-28",
+    "wiki": "85th_Street–Forest_Parkway_station"
   },
   {
     "name": "86th Street",
     "system": "nyc",
     "line": "Second Avenue Line",
-    "opened": "2017-01-01"
+    "opened": "2017-01-01",
+    "wiki": "86th_Street_station_(Second_Avenue_Subway)"
   },
   {
     "name": "88th Street",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1915-09-25"
+    "opened": "1915-09-25",
+    "wiki": "88th_Street_station"
   },
   {
     "name": "90th Street–Elmhurst Avenue",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "90th_Street–Elmhurst_Avenue_station"
   },
   {
     "name": "96th Street",
     "system": "nyc",
     "line": "Second Avenue Line",
-    "opened": "2017-01-01"
+    "opened": "2017-01-01",
+    "wiki": "96th_Street_station_(Second_Avenue_Subway)"
   },
   {
     "name": "103rd Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "103rd_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "103rd Street–Corona Plaza",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "103rd_Street–Corona_Plaza_station"
   },
   {
     "name": "104th Street",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1915-09-25"
+    "opened": "1915-09-25",
+    "wiki": "104th_Street_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "110th Street",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1918-07-17"
+    "opened": "1918-07-17",
+    "wiki": "110th_Street_station_(IRT_Lexington_Avenue_Line)"
   },
   {
     "name": "111th Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1925-10-13"
+    "opened": "1925-10-13",
+    "wiki": "111th_Street_station_(IRT_Flushing_Line)"
   },
   {
     "name": "116th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "116th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "116th Street–Columbia University",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "116th_Street–Columbia_University_station"
   },
   {
     "name": "121st Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1918-07-03"
+    "opened": "1918-07-03",
+    "wiki": "121st_Street_station_(BMT_Jamaica_Line)"
   },
   {
     "name": "125th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "125th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "135th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "135th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "137th Street–City College",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "137th_Street–City_College_station"
   },
   {
     "name": "138th Street–Grand Concourse",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1918-07-17"
+    "opened": "1918-07-17",
+    "wiki": "138th_Street–Grand_Concourse_station"
   },
   {
     "name": "145th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line,Concourse Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "145th_Street_station_(IND_lines)"
   },
   {
     "name": "149th Street–Grand Concourse",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1917-06-02"
+    "opened": "1917-06-02",
+    "wiki": "149th_Street–Grand_Concourse_station"
   },
   {
     "name": "155th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "155th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "157th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1904-11-12"
+    "opened": "1904-11-12",
+    "wiki": "157th_Street_station"
   },
   {
     "name": "161st Street–Yankee Stadium",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "161st_Street–Yankee_Stadium_station"
   },
   {
     "name": "163rd Street–Amsterdam Avenue",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "163rd_Street–Amsterdam_Avenue_station"
   },
   {
     "name": "167th Street",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "167th_Street_station_(IND_Concourse_Line)"
   },
   {
     "name": "168th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "168th_Street_station_(New_York_City_Subway)"
   },
   {
     "name": "169th Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1937-04-24"
+    "opened": "1937-04-24",
+    "wiki": "169th_Street_station_(IND_Queens_Boulevard_Line)"
   },
   {
     "name": "170th Street",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "170th_Street_station_(IND_Concourse_Line)"
   },
   {
     "name": "174th Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1904-11-26"
+    "opened": "1904-11-26",
+    "wiki": "174th_Street_station_(IRT_White_Plains_Road_Line)"
   },
   {
     "name": "174th–175th Streets",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "174th–175th_Streets_station"
   },
   {
     "name": "175th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "175th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "176th Street",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1917-06-02"
+    "opened": "1917-06-02",
+    "wiki": "176th_Street_station"
   },
   {
     "name": "181st Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "181st_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "182nd–183rd Streets",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "182nd–183rd_Streets_station"
   },
   {
     "name": "183rd Street",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1917-06-02"
+    "opened": "1917-06-02",
+    "wiki": "183rd_Street_station_(IRT_Jerome_Avenue_Line)"
   },
   {
     "name": "190th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "190th_Street_station"
   },
   {
     "name": "191st Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1911-01-14"
+    "opened": "1911-01-14",
+    "wiki": "191st_Street_station"
   },
   {
     "name": "207th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1907-04-01"
+    "opened": "1907-04-01",
+    "wiki": "207th_Street_station"
   },
   {
     "name": "215th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1906-03-12"
+    "opened": "1906-03-12",
+    "wiki": "215th_Street_station"
   },
   {
     "name": "219th Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-03"
+    "opened": "1917-03-03",
+    "wiki": "219th_Street_station"
   },
   {
     "name": "225th Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-31"
+    "opened": "1917-03-31",
+    "wiki": "225th_Street_station"
   },
   {
     "name": "231st Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1907-01-27"
+    "opened": "1907-01-27",
+    "wiki": "231st_Street_station"
   },
   {
     "name": "233rd Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-31"
+    "opened": "1917-03-31",
+    "wiki": "233rd_Street_station"
   },
   {
     "name": "238th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1908-08-01"
+    "opened": "1908-08-01",
+    "wiki": "238th_Street_station"
   },
   {
     "name": "Alabama Avenue",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1885-09-05"
+    "opened": "1885-09-05",
+    "wiki": "Alabama_Avenue_station"
   },
   {
     "name": "Allerton Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-03"
+    "opened": "1917-03-03",
+    "wiki": "Allerton_Avenue_station"
   },
   {
     "name": "Aqueduct Racetrack",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1959-09-14"
+    "opened": "1959-09-14",
+    "wiki": "Aqueduct_Racetrack_station"
   },
   {
     "name": "Aqueduct–North Conduit Avenue",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Aqueduct–North_Conduit_Avenue_station"
   },
   {
     "name": "Astor Place",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "Astor_Place_station"
   },
   {
     "name": "Astoria Boulevard",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "Astoria_Boulevard_station"
   },
   {
     "name": "Astoria–Ditmars Boulevard",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "Astoria–Ditmars_Boulevard_station"
   },
   {
     "name": "Atlantic Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1889-07-04"
+    "opened": "1889-07-04",
+    "wiki": "Atlantic_Avenue_station_(BMT_Canarsie_Line)"
   },
   {
     "name": "Atlantic Avenue–Barclays Center",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Atlantic_Avenue–Barclays_Center_station"
   },
   {
     "name": "Avenue H",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Avenue_H_station"
   },
   {
     "name": "Avenue I",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "Avenue_I_station"
   },
   {
     "name": "Avenue J",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Avenue_J_station"
   },
   {
     "name": "Avenue M",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Avenue_M_station"
   },
   {
     "name": "Avenue N",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "Avenue_N_station"
   },
   {
     "name": "Avenue P",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "Avenue_P_station"
   },
   {
     "name": "Avenue U",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Avenue_U_station_(BMT_Brighton_Line)"
   },
   {
     "name": "Avenue X",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-05-10"
+    "opened": "1919-05-10",
+    "wiki": "Avenue_X_station"
   },
   {
     "name": "Bay 50th Street",
     "system": "nyc",
     "line": "West End Line",
-    "opened": "1917-07-21"
+    "opened": "1917-07-21",
+    "wiki": "Bay_50th_Street_station"
   },
   {
     "name": "Bay Parkway",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "Bay_Parkway_station_(IND_Culver_Line)"
   },
   {
     "name": "Bay Ridge Avenue",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1916-01-15"
+    "opened": "1916-01-15",
+    "wiki": "Bay_Ridge_Avenue_station"
   },
   {
     "name": "Bay Ridge–95th Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1925-10-31"
+    "opened": "1925-10-31",
+    "wiki": "Bay_Ridge–95th_Street_station"
   },
   {
     "name": "Baychester Avenue",
     "system": "nyc",
     "line": "Dyre Avenue Line",
-    "opened": "1941-05-15"
+    "opened": "1941-05-15",
+    "wiki": "Baychester_Avenue_station"
   },
   {
     "name": "Beach 25th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_25th_Street_station"
   },
   {
     "name": "Beach 36th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_36th_Street_station"
   },
   {
     "name": "Beach 44th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_44th_Street_station"
   },
   {
     "name": "Beach 60th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_60th_Street_station"
   },
   {
     "name": "Beach 67th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_67th_Street_station"
   },
   {
     "name": "Beach 90th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_90th_Street_station"
   },
   {
     "name": "Beach 98th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_98th_Street_station"
   },
   {
     "name": "Beach 105th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Beach_105th_Street_station"
   },
   {
     "name": "Bedford Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "Bedford_Avenue_station"
   },
   {
     "name": "Bedford Park Boulevard",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "Bedford_Park_Boulevard_station"
   },
   {
     "name": "Bedford Park Boulevard–Lehman College",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1918-04-15"
+    "opened": "1918-04-15",
+    "wiki": "Bedford_Park_Boulevard–Lehman_College_station"
   },
   {
     "name": "Bedford–Nostrand Avenues",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1937-07-01"
+    "opened": "1937-07-01",
+    "wiki": "Bedford–Nostrand_Avenues_station"
   },
   {
     "name": "Bergen Street",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1933-03-20"
+    "opened": "1933-03-20",
+    "wiki": "Bergen_Street_station_(IND_Culver_Line)"
   },
   {
     "name": "Beverley Road",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Beverley_Road_station"
   },
   {
     "name": "Beverly Road",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Beverly_Road_station"
   },
   {
     "name": "Borough Hall/Court Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1920-08-01"
+    "opened": "1920-08-01",
+    "wiki": "Borough_Hall/Court_Street_station"
   },
   {
     "name": "Bowery",
     "system": "nyc",
     "line": "Nassau Street Line",
-    "opened": "1913-08-04"
+    "opened": "1913-08-04",
+    "wiki": "Bowery_station"
   },
   {
     "name": "Bowling Green",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1905-07-10"
+    "opened": "1905-07-10",
+    "wiki": "Bowling_Green_station"
   },
   {
     "name": "Briarwood",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1937-04-24"
+    "opened": "1937-04-24",
+    "wiki": "Briarwood_station"
   },
   {
     "name": "Brighton Beach",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Brighton_Beach_station_(BMT_Brighton_Line)"
   },
   {
     "name": "Broad Channel",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Broad_Channel_station"
   },
   {
     "name": "Broad Street",
     "system": "nyc",
     "line": "Nassau Street Line",
-    "opened": "1931-05-29"
+    "opened": "1931-05-29",
+    "wiki": "Broad_Street_station_(BMT_Nassau_Street_Line)"
   },
   {
     "name": "Broadway",
     "system": "nyc",
     "line": "Astoria Line",
-    "opened": "1917-02-01"
+    "opened": "1917-02-01",
+    "wiki": "Broadway_station_(BMT_Astoria_Line)"
   },
   {
     "name": "Broadway Junction",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Broadway_Junction_station"
   },
   {
     "name": "Broadway–Lafayette Street/Bleecker Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1936-01-01"
+    "opened": "1936-01-01",
+    "wiki": "Broadway–Lafayette_Street/Bleecker_Street_station"
   },
   {
     "name": "Bronx Park East",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-03"
+    "opened": "1917-03-03",
+    "wiki": "Bronx_Park_East_station"
   },
   {
     "name": "Brook Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "Brook_Avenue_station"
   },
   {
     "name": "Brooklyn Bridge–City Hall/Chambers Street",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "Brooklyn_Bridge–City_Hall/Chambers_Street_station"
   },
   {
     "name": "Buhre Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-12-20"
+    "opened": "1920-12-20",
+    "wiki": "Buhre_Avenue_station"
   },
   {
     "name": "Burke Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-03"
+    "opened": "1917-03-03",
+    "wiki": "Burke_Avenue_station"
   },
   {
     "name": "Burnside Avenue",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1917-06-02"
+    "opened": "1917-06-02",
+    "wiki": "Burnside_Avenue_station"
   },
   {
     "name": "Bushwick Avenue–Aberdeen Street",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Bushwick_Avenue–Aberdeen_Street_station"
   },
   {
     "name": "Canal Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Canal_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "Canarsie–Rockaway Parkway",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1906-07-28"
+    "opened": "1906-07-28",
+    "wiki": "Canarsie–Rockaway_Parkway_station"
   },
   {
     "name": "Castle Hill Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-10-24"
+    "opened": "1920-10-24",
+    "wiki": "Castle_Hill_Avenue_station"
   },
   {
     "name": "Cathedral Parkway–110th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Cathedral_Parkway–110th_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "Carroll Street",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1933-10-07"
+    "opened": "1933-10-07",
+    "wiki": "Carroll_Street_station"
   },
   {
     "name": "Central Avenue",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1889-07-20"
+    "opened": "1889-07-20",
+    "wiki": "Central_Avenue_station_(BMT_Myrtle_Avenue_Line)"
   },
   {
     "name": "Chambers Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "Chambers_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "Chambers Street–World Trade Center/Park Place/Cortlandt Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Chambers_Street–World_Trade_Center/Park_Place/Cortlandt_Street_station"
   },
   {
     "name": "Chauncey Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1885-07-18"
+    "opened": "1885-07-18",
+    "wiki": "Chauncey_Street_station"
   },
   {
     "name": "Christopher Street–Stonewall",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "Christopher_Street–Stonewall_station"
   },
   {
     "name": "Church Avenue",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Church_Avenue_station_(BMT_Brighton_Line)"
   },
   {
     "name": "City Hall",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1918-01-05"
+    "opened": "1918-01-05",
+    "wiki": "City_Hall_station_(BMT_Broadway_Line)"
   },
   {
     "name": "Clark Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1919-04-15"
+    "opened": "1919-04-15",
+    "wiki": "Clark_Street_station"
   },
   {
     "name": "Classon Avenue",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1937-07-01"
+    "opened": "1937-07-01",
+    "wiki": "Classon_Avenue_station"
   },
   {
     "name": "Cleveland Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1893-05-30"
+    "opened": "1893-05-30",
+    "wiki": "Cleveland_Street_station"
   },
   {
     "name": "Clinton–Washington Avenues",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1937-07-01"
+    "opened": "1937-07-01",
+    "wiki": "Clinton–Washington_Avenues_station_(IND_Crosstown_Line)"
   },
   {
     "name": "Coney Island–Stillwell Avenue",
     "system": "nyc",
     "line": "BMT Brighton Line,IND Culver Line,BMT Sea Beach Line,BMT West End Line",
-    "opened": "1917-09-05"
+    "opened": "1917-09-05",
+    "wiki": "Coney_Island–Stillwell_Avenue_station"
   },
   {
     "name": "Cortelyou Road",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Cortelyou_Road_station"
   },
   {
     "name": "Court Square–23rd Street",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Court_Square–23rd_Street_station"
   },
   {
     "name": "Crescent Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1893-05-30"
+    "opened": "1893-05-30",
+    "wiki": "Crescent_Street_station_(BMT_Jamaica_Line)"
   },
   {
     "name": "Crown Heights–Utica Avenue",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Crown_Heights–Utica_Avenue_station"
   },
   {
     "name": "Cypress Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "Cypress_Avenue_station"
   },
   {
     "name": "Cypress Hills",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1893-05-30"
+    "opened": "1893-05-30",
+    "wiki": "Cypress_Hills_station"
   },
   {
     "name": "DeKalb Avenue",
     "system": "nyc",
     "line": "Fourth Avenue Line,Brighton Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "DeKalb_Avenue_station_(BMT_lines)"
   },
   {
     "name": "Delancey Street/Essex Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1936-01-01"
+    "opened": "1936-01-01",
+    "wiki": "Delancey_Street/Essex_Street_station"
   },
   {
     "name": "Ditmas Avenue",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1919-03-16"
+    "opened": "1919-03-16",
+    "wiki": "Ditmas_Avenue_station"
   },
   {
     "name": "Dyckman Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Dyckman_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "East 105th Street",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1906-07-28"
+    "opened": "1906-07-28",
+    "wiki": "East_105th_Street_station"
   },
   {
     "name": "East 143rd Street–St. Mary's Street",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "East_143rd_Street–St._Mary's_Street_station"
   },
   {
     "name": "East 149th Street",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "East_149th_Street_station"
   },
   {
     "name": "East 180th Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-03"
+    "opened": "1917-03-03",
+    "wiki": "East_180th_Street_station"
   },
   {
     "name": "East Broadway",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1936-01-01"
+    "opened": "1936-01-01",
+    "wiki": "East_Broadway_station"
   },
   {
     "name": "Eastchester–Dyre Avenue",
     "system": "nyc",
     "line": "Dyre Avenue Line",
-    "opened": "1941-05-15"
+    "opened": "1941-05-15",
+    "wiki": "Eastchester–Dyre_Avenue_station"
   },
   {
     "name": "Eastern Parkway–Brooklyn Museum",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-10-10"
+    "opened": "1920-10-10",
+    "wiki": "Eastern_Parkway–Brooklyn_Museum_station"
   },
   {
     "name": "Elder Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-05-30"
+    "opened": "1920-05-30",
+    "wiki": "Elder_Avenue_station"
   },
   {
     "name": "Elmhurst Avenue",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "Elmhurst_Avenue_station"
   },
   {
     "name": "Euclid Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1948-11-28"
+    "opened": "1948-11-28",
+    "wiki": "Euclid_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Far Rockaway–Mott Avenue",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1958-01-16"
+    "opened": "1958-01-16",
+    "wiki": "Far_Rockaway–Mott_Avenue_station"
   },
   {
     "name": "Flatbush Avenue–Brooklyn College",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Flatbush_Avenue–Brooklyn_College_station"
   },
   {
     "name": "Flushing Avenue",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1937-07-01"
+    "opened": "1937-07-01",
+    "wiki": "Flushing_Avenue_station_(IND_Crosstown_Line)"
   },
   {
     "name": "Flushing–Main Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1928-01-21"
+    "opened": "1928-01-21",
+    "wiki": "Flushing–Main_Street_station_(IRT_Flushing_Line)"
   },
   {
     "name": "Fordham Road",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "Fordham_Road_station_(IND_Concourse_Line)"
   },
   {
     "name": "Forest Avenue",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1915-02-22"
+    "opened": "1915-02-22",
+    "wiki": "Forest_Avenue_station"
   },
   {
     "name": "Forest Hills–71st Avenue",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "Forest_Hills–71st_Avenue_station"
   },
   {
     "name": "Fort Hamilton Parkway",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1933-10-07"
+    "opened": "1933-10-07",
+    "wiki": "Fort_Hamilton_Parkway_station_(IND_Culver_Line)"
   },
   {
     "name": "Franklin Avenue/Botanic Garden",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Franklin_Avenue/Botanic_Garden_station"
   },
   {
     "name": "Franklin Avenue",
     "system": "nyc",
     "line": "Franklin Avenue Line",
-    "opened": "1896-08-15"
+    "opened": "1896-08-15",
+    "wiki": "Franklin_Avenue_station_(Fulton_Street)"
   },
   {
     "name": "Franklin Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "Franklin_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "Freeman Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1904-11-26"
+    "opened": "1904-11-26",
+    "wiki": "Freeman_Street_station"
   },
   {
     "name": "Fresh Pond Road",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1915-02-22"
+    "opened": "1915-02-22",
+    "wiki": "Fresh_Pond_Road_station"
   },
   {
     "name": "Fulton Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1933-02-01"
+    "opened": "1933-02-01",
+    "wiki": "Fulton_Street_station_(New_York_City_Subway)"
   },
   {
     "name": "Gates Avenue",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1885-05-13"
+    "opened": "1885-05-13",
+    "wiki": "Gates_Avenue_station"
   },
   {
     "name": "Graham Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "Graham_Avenue_station"
   },
   {
     "name": "Grand Army Plaza",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-10-10"
+    "opened": "1920-10-10",
+    "wiki": "Grand_Army_Plaza_station"
   },
   {
     "name": "Grand Avenue–Newtown",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "Grand_Avenue–Newtown_station"
   },
   {
     "name": "Grand Central–42nd Street",
     "system": "nyc",
     "line": "42nd Street Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "Grand_Central–42nd_Street_station"
   },
   {
     "name": "Grand Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1967-11-26"
+    "opened": "1967-11-26",
+    "wiki": "Grand_Street_station_(IND_Sixth_Avenue_Line)"
   },
   {
     "name": "Grant Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1956-04-29"
+    "opened": "1956-04-29",
+    "wiki": "Grant_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Greenpoint Avenue",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Greenpoint_Avenue_station"
   },
   {
     "name": "Gun Hill Road",
     "system": "nyc",
     "line": "Dyre Avenue Line",
-    "opened": "1941-05-15"
+    "opened": "1941-05-15",
+    "wiki": "Gun_Hill_Road_station_(IRT_Dyre_Avenue_Line)"
   },
   {
     "name": "Halsey Street",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Halsey_Street_station_(BMT_Canarsie_Line)"
   },
   {
     "name": "Harlem–148th Street",
     "system": "nyc",
     "line": "Lenox Avenue Line",
-    "opened": "1968-05-13"
+    "opened": "1968-05-13",
+    "wiki": "Harlem–148th_Street_station"
   },
   {
     "name": "Hewes Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1888-06-25"
+    "opened": "1888-06-25",
+    "wiki": "Hewes_Street_station"
   },
   {
     "name": "High Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1933-06-24"
+    "opened": "1933-06-24",
+    "wiki": "High_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "Houston Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "Houston_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "Hoyt Street",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1908-05-01"
+    "opened": "1908-05-01",
+    "wiki": "Hoyt_Street_station"
   },
   {
     "name": "Hoyt–Schermerhorn Streets",
     "system": "nyc",
     "line": "Crosstown Line,Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Hoyt–Schermerhorn_Streets_station"
   },
   {
     "name": "Howard Beach–JFK Airport",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Howard_Beach–JFK_Airport_station"
   },
   {
     "name": "Hunters Point Avenue",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1916-02-15"
+    "opened": "1916-02-15",
+    "wiki": "Hunters_Point_Avenue_station"
   },
   {
     "name": "Hunts Point Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "Hunts_Point_Avenue_station"
   },
   {
     "name": "Intervale Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1910-04-30"
+    "opened": "1910-04-30",
+    "wiki": "Intervale_Avenue_station"
   },
   {
     "name": "Inwood–207th Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Inwood–207th_Street_station"
   },
   {
     "name": "Jackson Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1904-11-26"
+    "opened": "1904-11-26",
+    "wiki": "Jackson_Avenue_station_(IRT_White_Plains_Road_Line)"
   },
   {
     "name": "Jackson Heights–Roosevelt Avenue/74th Street",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "Jackson_Heights–Roosevelt_Avenue/74th_Street_station"
   },
   {
     "name": "Jamaica Center–Parsons/Archer",
     "system": "nyc",
     "line": "BMT Archer Avenue Line,IND Archer Avenue Line",
-    "opened": "1988-12-11"
+    "opened": "1988-12-11",
+    "wiki": "Jamaica_Center–Parsons/Archer_station"
   },
   {
     "name": "Jamaica–179th Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1950-12-11"
+    "opened": "1950-12-11",
+    "wiki": "Jamaica–179th_Street_station"
   },
   {
     "name": "Jamaica–Van Wyck",
     "system": "nyc",
     "line": "Archer Avenue Line",
-    "opened": "1988-12-11"
+    "opened": "1988-12-11",
+    "wiki": "Jamaica–Van_Wyck_station"
   },
   {
     "name": "Jay Street–MetroTech",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1924-06-11"
+    "opened": "1924-06-11",
+    "wiki": "Jay_Street–MetroTech_station"
   },
   {
     "name": "Jefferson Street",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Jefferson_Street_station"
   },
   {
     "name": "Junction Boulevard",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1917-04-21"
+    "opened": "1917-04-21",
+    "wiki": "Junction_Boulevard_station"
   },
   {
     "name": "Junius Street",
     "system": "nyc",
     "line": "New Lots Line",
-    "opened": "1920-11-22"
+    "opened": "1920-11-22",
+    "wiki": "Junius_Street_station"
   },
   {
     "name": "Kew Gardens–Union Turnpike",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1936-12-31"
+    "opened": "1936-12-31",
+    "wiki": "Kew_Gardens–Union_Turnpike_station"
   },
   {
     "name": "Kings Highway",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Kings_Highway_station_(BMT_Brighton_Line)"
   },
   {
     "name": "Kingsbridge Road",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "Kingsbridge_Road_station_(IND_Concourse_Line)"
   },
   {
     "name": "Kingston Avenue",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Kingston_Avenue_station"
   },
   {
     "name": "Kingston–Throop Avenues",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Kingston–Throop_Avenues_station"
   },
   {
     "name": "Knickerbocker Avenue",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1889-08-15"
+    "opened": "1889-08-15",
+    "wiki": "Knickerbocker_Avenue_station"
   },
   {
     "name": "Kosciuszko Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1888-06-25"
+    "opened": "1888-06-25",
+    "wiki": "Kosciuszko_Street_station"
   },
   {
     "name": "Lafayette Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Lafayette_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Lexington Avenue/51st Street",
     "system": "nyc",
     "line": "Lexington Avenue Line",
-    "opened": "1918-07-17"
+    "opened": "1918-07-17",
+    "wiki": "Lexington_Avenue/51st_Street_station"
   },
   {
     "name": "Lexington Avenue/59th Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1919-09-01"
+    "opened": "1919-09-01",
+    "wiki": "Lexington_Avenue/59th_Street_station"
   },
   {
     "name": "Lexington Avenue–63rd Street",
     "system": "nyc",
     "line": "BMT 63rd Street Line,IND 63rd Street Line",
-    "opened": "1989-10-29"
+    "opened": "1989-10-29",
+    "wiki": "Lexington_Avenue–63rd_Street_station"
   },
   {
     "name": "Liberty Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1948-11-28"
+    "opened": "1948-11-28",
+    "wiki": "Liberty_Avenue_station"
   },
   {
     "name": "Livonia Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1906-07-28"
+    "opened": "1906-07-28",
+    "wiki": "Livonia_Avenue_station"
   },
   {
     "name": "Longwood Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1919-01-07"
+    "opened": "1919-01-07",
+    "wiki": "Longwood_Avenue_station"
   },
   {
     "name": "Lorimer Street",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1888-06-25"
+    "opened": "1888-06-25",
+    "wiki": "Lorimer_Street_station_(BMT_Jamaica_Line)"
   },
   {
     "name": "110th Street–Malcolm X Plaza",
     "system": "nyc",
     "line": "Lenox Avenue Line",
-    "opened": "1904-11-23"
+    "opened": "1904-11-23",
+    "wiki": "110th_Street–Malcolm_X_Plaza_station"
   },
   {
     "name": "Marble Hill–225th Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1907-01-14"
+    "opened": "1907-01-14",
+    "wiki": "Marble_Hill–225th_Street_station"
   },
   {
     "name": "Marcy Avenue",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1888-06-25"
+    "opened": "1888-06-25",
+    "wiki": "Marcy_Avenue_station"
   },
   {
     "name": "Metropolitan Avenue/Lorimer Street",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "Metropolitan_Avenue/Lorimer_Street_station"
   },
   {
     "name": "Mets–Willets Point",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1927-05-07"
+    "opened": "1927-05-07",
+    "wiki": "Mets–Willets_Point_station_(IRT_Flushing_Line)"
   },
   {
     "name": "Middle Village–Metropolitan Avenue",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1906-10-01"
+    "opened": "1906-10-01",
+    "wiki": "Middle_Village–Metropolitan_Avenue_station"
   },
   {
     "name": "Middletown Road",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-12-20"
+    "opened": "1920-12-20",
+    "wiki": "Middletown_Road_station"
   },
   {
     "name": "Montrose Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1924-06-30"
+    "opened": "1924-06-30",
+    "wiki": "Montrose_Avenue_station"
   },
   {
     "name": "Morgan Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Morgan_Avenue_station"
   },
   {
     "name": "Morris Park",
     "system": "nyc",
     "line": "Dyre Avenue Line",
-    "opened": "1941-05-15"
+    "opened": "1941-05-15",
+    "wiki": "Morris_Park_station"
   },
   {
     "name": "Morrison Avenue–Soundview",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-05-30"
+    "opened": "1920-05-30",
+    "wiki": "Morrison_Avenue–Soundview_station"
   },
   {
     "name": "Mosholu Parkway",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1918-04-15"
+    "opened": "1918-04-15",
+    "wiki": "Mosholu_Parkway_station"
   },
   {
     "name": "Mount Eden Avenue",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1917-06-02"
+    "opened": "1917-06-02",
+    "wiki": "Mount_Eden_Avenue_station"
   },
   {
     "name": "Myrtle Avenue",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1888-06-25"
+    "opened": "1888-06-25",
+    "wiki": "Myrtle_Avenue_station_(BMT_Jamaica_Line)"
   },
   {
     "name": "Myrtle–Willoughby Avenues",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1937-07-01"
+    "opened": "1937-07-01",
+    "wiki": "Myrtle–Willoughby_Avenues_station"
   },
   {
     "name": "Myrtle–Wyckoff Avenues",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Myrtle–Wyckoff_Avenues_station"
   },
   {
     "name": "Nassau Avenue",
     "system": "nyc",
     "line": "Crosstown Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Nassau_Avenue_station"
   },
   {
     "name": "Neck Road",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Neck_Road_station"
   },
   {
     "name": "Neptune Avenue",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1920-05-01"
+    "opened": "1920-05-01",
+    "wiki": "Neptune_Avenue_station"
   },
   {
     "name": "Nereid Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1917-03-31"
+    "opened": "1917-03-31",
+    "wiki": "Nereid_Avenue_station"
   },
   {
     "name": "Nevins Street",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1908-05-01"
+    "opened": "1908-05-01",
+    "wiki": "Nevins_Street_station"
   },
   {
     "name": "New Lots Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1906-07-28"
+    "opened": "1906-07-28",
+    "wiki": "New_Lots_Avenue_station_(BMT_Canarsie_Line)"
   },
   {
     "name": "Newkirk Avenue–Little Haiti",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Newkirk_Avenue–Little_Haiti_station"
   },
   {
     "name": "Newkirk Plaza",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Newkirk_Plaza_station"
   },
   {
     "name": "Northern Boulevard",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Northern_Boulevard_station"
   },
   {
     "name": "Norwood Avenue",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1893-05-30"
+    "opened": "1893-05-30",
+    "wiki": "Norwood_Avenue_station"
   },
   {
     "name": "Norwood–205th Street",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "Norwood–205th_Street_station"
   },
   {
     "name": "Nostrand Avenue",
     "system": "nyc",
     "line": "Eastern Parkway Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Nostrand_Avenue_station_(IRT_Eastern_Parkway_Line)"
   },
   {
     "name": "Ocean Parkway",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1917-04-22"
+    "opened": "1917-04-22",
+    "wiki": "Ocean_Parkway_station"
   },
   {
     "name": "Ozone Park–Lefferts Boulevard",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1915-09-25"
+    "opened": "1915-09-25",
+    "wiki": "Ozone_Park–Lefferts_Boulevard_station"
   },
   {
     "name": "Park Place",
     "system": "nyc",
     "line": "Franklin Avenue Line",
-    "opened": "1905-04-04"
+    "opened": "1905-04-04",
+    "wiki": "Park_Place_station_(BMT_Franklin_Avenue_Line)"
   },
   {
     "name": "Parkchester",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-05-30"
+    "opened": "1920-05-30",
+    "wiki": "Parkchester_station"
   },
   {
     "name": "Parkside Avenue",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1905-04-04"
+    "opened": "1905-04-04",
+    "wiki": "Parkside_Avenue_station"
   },
   {
     "name": "Parsons Boulevard",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1937-04-24"
+    "opened": "1937-04-24",
+    "wiki": "Parsons_Boulevard_station"
   },
   {
     "name": "Pelham Bay Park",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-12-20"
+    "opened": "1920-12-20",
+    "wiki": "Pelham_Bay_Park_station"
   },
   {
     "name": "Pelham Parkway",
     "system": "nyc",
     "line": "Dyre Avenue Line",
-    "opened": "1941-05-15"
+    "opened": "1941-05-15",
+    "wiki": "Pelham_Parkway_station_(IRT_Dyre_Avenue_Line)"
   },
   {
     "name": "Pennsylvania Avenue",
     "system": "nyc",
     "line": "New Lots Line",
-    "opened": "1920-12-24"
+    "opened": "1920-12-24",
+    "wiki": "Pennsylvania_Avenue_station_(IRT_New_Lots_Line)"
   },
   {
     "name": "President Street–Medgar Evers College",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "President_Street–Medgar_Evers_College_station"
   },
   {
     "name": "Prince Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1917-09-04"
+    "opened": "1917-09-04",
+    "wiki": "Prince_Street_station"
   },
   {
     "name": "Prospect Avenue",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Prospect_Avenue_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "Prospect Park",
     "system": "nyc",
     "line": "Brighton Line,Franklin Avenue Line",
-    "opened": "1905-04-04"
+    "opened": "1905-04-04",
+    "wiki": "Prospect_Park_station_(BMT_lines)"
   },
   {
     "name": "Queens Plaza",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Queens_Plaza_station"
   },
   {
     "name": "Queensboro Plaza",
     "system": "nyc",
     "line": "BMT Astoria Line,IRT Flushing Line",
-    "opened": "1916-11-16"
+    "opened": "1916-11-16",
+    "wiki": "Queensboro_Plaza_station"
   },
   {
     "name": "Ralph Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Ralph_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Rector Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1918-01-05"
+    "opened": "1918-01-05",
+    "wiki": "Rector_Street_station_(BMT_Broadway_Line)"
   },
   {
     "name": "Rockaway Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Rockaway_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Rockaway Boulevard",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1915-09-25"
+    "opened": "1915-09-25",
+    "wiki": "Rockaway_Boulevard_station"
   },
   {
     "name": "Rockaway Park–Beach 116th Street",
     "system": "nyc",
     "line": "Rockaway Line",
-    "opened": "1956-06-28"
+    "opened": "1956-06-28",
+    "wiki": "Rockaway_Park–Beach_116th_Street_station"
   },
   {
     "name": "Roosevelt Island",
     "system": "nyc",
     "line": "63rd Street Line",
-    "opened": "1989-10-29"
+    "opened": "1989-10-29",
+    "wiki": "Roosevelt_Island_station"
   },
   {
     "name": "St. Lawrence Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-05-30"
+    "opened": "1920-05-30",
+    "wiki": "St._Lawrence_Avenue_station"
   },
   {
     "name": "Saratoga Avenue",
     "system": "nyc",
     "line": "New Lots Line",
-    "opened": "1920-11-22"
+    "opened": "1920-11-22",
+    "wiki": "Saratoga_Avenue_station_(IRT_New_Lots_Line)"
   },
   {
     "name": "Seneca Avenue",
     "system": "nyc",
     "line": "Myrtle Avenue Line",
-    "opened": "1915-02-22"
+    "opened": "1915-02-22",
+    "wiki": "Seneca_Avenue_station"
   },
   {
     "name": "Sheepshead Bay",
     "system": "nyc",
     "line": "Brighton Line",
-    "opened": "1907-08-23"
+    "opened": "1907-08-23",
+    "wiki": "Sheepshead_Bay_station"
   },
   {
     "name": "Shepherd Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1948-11-28"
+    "opened": "1948-11-28",
+    "wiki": "Shepherd_Avenue_station"
   },
   {
     "name": "Simpson Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1904-11-26"
+    "opened": "1904-11-26",
+    "wiki": "Simpson_Street_station"
   },
   {
     "name": "Smith–Ninth Streets",
     "system": "nyc",
     "line": "Culver Line",
-    "opened": "1933-10-07"
+    "opened": "1933-10-07",
+    "wiki": "Smith–Ninth_Streets_station"
   },
   {
     "name": "South Ferry/Whitehall Street",
     "system": "nyc",
     "line": "Broadway Line",
-    "opened": "1918-09-20"
+    "opened": "1918-09-20",
+    "wiki": "South_Ferry/Whitehall_Street_station"
   },
   {
     "name": "Spring Street",
     "system": "nyc",
     "line": "Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "Spring_Street_station_(IND_Eighth_Avenue_Line)"
   },
   {
     "name": "Steinway Street",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1933-08-19"
+    "opened": "1933-08-19",
+    "wiki": "Steinway_Street_station"
   },
   {
     "name": "Sterling Street",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Sterling_Street_station"
   },
   {
     "name": "Sutphin Boulevard",
     "system": "nyc",
     "line": "Queens Boulevard Line",
-    "opened": "1937-04-24"
+    "opened": "1937-04-24",
+    "wiki": "Sutphin_Boulevard_station_(IND_Queens_Boulevard_Line)"
   },
   {
     "name": "Sutphin Boulevard–Archer Avenue–JFK Airport",
     "system": "nyc",
     "line": "BMT Archer Avenue Line,IND Archer Avenue Line",
-    "opened": "1988-12-11"
+    "opened": "1988-12-11",
+    "wiki": "Sutphin_Boulevard–Archer_Avenue–JFK_Airport_station"
   },
   {
     "name": "Sutter Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1906-07-28"
+    "opened": "1906-07-28",
+    "wiki": "Sutter_Avenue_station"
   },
   {
     "name": "Sutter Avenue–Rutland Road",
     "system": "nyc",
     "line": "New Lots Line",
-    "opened": "1920-11-22"
+    "opened": "1920-11-22",
+    "wiki": "Sutter_Avenue–Rutland_Road_station"
   },
   {
     "name": "Times Square–42nd Street",
     "system": "nyc",
     "line": "42nd Street Line",
-    "opened": "1904-10-27"
+    "opened": "1904-10-27",
+    "wiki": "Times_Square–42nd_Street_station"
   },
   {
     "name": "Tremont Avenue",
     "system": "nyc",
     "line": "Concourse Line",
-    "opened": "1933-07-01"
+    "opened": "1933-07-01",
+    "wiki": "Tremont_Avenue_station"
   },
   {
     "name": "Union Street",
     "system": "nyc",
     "line": "Fourth Avenue Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Union_Street_station_(BMT_Fourth_Avenue_Line)"
   },
   {
     "name": "Utica Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "Utica_Avenue_station"
   },
   {
     "name": "Van Cortlandt Park–242nd Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1908-08-01"
+    "opened": "1908-08-01",
+    "wiki": "Van_Cortlandt_Park–242nd_Street_station"
   },
   {
     "name": "Van Siclen Avenue",
     "system": "nyc",
     "line": "Fulton Street Line",
-    "opened": "1948-11-28"
+    "opened": "1948-11-28",
+    "wiki": "Van_Siclen_Avenue_station_(IND_Fulton_Street_Line)"
   },
   {
     "name": "Vernon Boulevard–Jackson Avenue",
     "system": "nyc",
     "line": "Flushing Line",
-    "opened": "1915-06-22"
+    "opened": "1915-06-22",
+    "wiki": "Vernon_Boulevard–Jackson_Avenue_station"
   },
   {
     "name": "Wakefield–241st Street",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1920-12-13"
+    "opened": "1920-12-13",
+    "wiki": "Wakefield–241st_Street_station"
   },
   {
     "name": "Wall Street",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "Wall_Street_station_(IRT_Broadway–Seventh_Avenue_Line)"
   },
   {
     "name": "West Fourth Street–Washington Square",
     "system": "nyc",
     "line": "Sixth Avenue Line,Eighth Avenue Line",
-    "opened": "1932-09-10"
+    "opened": "1932-09-10",
+    "wiki": "West_Fourth_Street–Washington_Square_station"
   },
   {
     "name": "West Eighth Street–New York Aquarium",
     "system": "nyc",
     "line": "BMT Brighton Line,IND Culver Line",
-    "opened": "1919-05-19"
+    "opened": "1919-05-19",
+    "wiki": "West_Eighth_Street–New_York_Aquarium_station"
   },
   {
     "name": "West Farms Square–East Tremont Avenue",
     "system": "nyc",
     "line": "White Plains Road Line",
-    "opened": "1904-11-26"
+    "opened": "1904-11-26",
+    "wiki": "West_Farms_Square–East_Tremont_Avenue_station"
   },
   {
     "name": "Westchester Square–East Tremont Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-10-24"
+    "opened": "1920-10-24",
+    "wiki": "Westchester_Square–East_Tremont_Avenue_station"
   },
   {
     "name": "Whitlock Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-05-30"
+    "opened": "1920-05-30",
+    "wiki": "Whitlock_Avenue_station"
   },
   {
     "name": "Wilson Avenue",
     "system": "nyc",
     "line": "Canarsie Line",
-    "opened": "1928-07-14"
+    "opened": "1928-07-14",
+    "wiki": "Wilson_Avenue_station"
   },
   {
     "name": "Winthrop Street",
     "system": "nyc",
     "line": "Nostrand Avenue Line",
-    "opened": "1920-08-23"
+    "opened": "1920-08-23",
+    "wiki": "Winthrop_Street_station"
   },
   {
     "name": "Woodhaven Boulevard",
     "system": "nyc",
     "line": "Jamaica Line",
-    "opened": "1917-05-28"
+    "opened": "1917-05-28",
+    "wiki": "Woodhaven_Boulevard_station_(BMT_Jamaica_Line)"
   },
   {
     "name": "Woodlawn",
     "system": "nyc",
     "line": "Jerome Avenue Line",
-    "opened": "1918-04-15"
+    "opened": "1918-04-15",
+    "wiki": "Woodlawn_station_(IRT_Jerome_Avenue_Line)"
   },
   {
     "name": "WTC Cortlandt",
     "system": "nyc",
     "line": "Broadway–Seventh Avenue Line",
-    "opened": "1918-07-01"
+    "opened": "1918-07-01",
+    "wiki": "WTC_Cortlandt_station"
   },
   {
     "name": "York Street",
     "system": "nyc",
     "line": "Sixth Avenue Line",
-    "opened": "1936-04-09"
+    "opened": "1936-04-09",
+    "wiki": "York_Street_station_(IND_Sixth_Avenue_Line)"
   },
   {
     "name": "Zerega Avenue",
     "system": "nyc",
     "line": "Pelham Line",
-    "opened": "1920-10-24"
+    "opened": "1920-10-24",
+    "wiki": "Zerega_Avenue_station"
   },
   {
     "name": "Times Square–42nd Street/Port Authority Bus Terminal/Bryant Park/Fifth Avenue",
@@ -2085,1788 +2431,2086 @@
     "name": "Addison Road",
     "system": "wmata",
     "line": "Silver, Blue",
-    "opened": "1980-11-22"
+    "opened": "1980-11-22",
+    "wiki": "Addison_Road_station"
   },
   {
     "name": "Anacostia",
     "system": "wmata",
     "line": "Green",
-    "opened": "1991-12-28"
+    "opened": "1991-12-28",
+    "wiki": "Anacostia_station"
   },
   {
     "name": "Archives",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1983-04-30"
+    "opened": "1983-04-30",
+    "wiki": "Archives_station"
   },
   {
     "name": "Arlington Cemetery",
     "system": "wmata",
     "line": "Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Arlington_Cemetery_station"
   },
   {
     "name": "Ashburn",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Ashburn_station_(Washington_Metro)"
   },
   {
     "name": "Ballston–MU",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1979-12-11"
+    "opened": "1979-12-11",
+    "wiki": "Ballston–MU_station"
   },
   {
     "name": "Benning Road",
     "system": "wmata",
     "line": "Silver, Blue",
-    "opened": "1980-11-22"
+    "opened": "1980-11-22",
+    "wiki": "Benning_Road_station"
   },
   {
     "name": "Bethesda",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-08-25"
+    "opened": "1984-08-25",
+    "wiki": "Bethesda_station"
   },
   {
     "name": "Braddock Road",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1983-12-17"
+    "opened": "1983-12-17",
+    "wiki": "Braddock_Road_station"
   },
   {
     "name": "Branch Avenue",
     "system": "wmata",
     "line": "Green",
-    "opened": "2001-01-13"
+    "opened": "2001-01-13",
+    "wiki": "Branch_Avenue_station"
   },
   {
     "name": "Brookland–CUA",
     "system": "wmata",
     "line": "Red",
-    "opened": "1978-02-06"
+    "opened": "1978-02-06",
+    "wiki": "Brookland–CUA_station"
   },
   {
     "name": "Capitol Heights",
     "system": "wmata",
     "line": "Silver, Blue",
-    "opened": "1980-11-22"
+    "opened": "1980-11-22",
+    "wiki": "Capitol_Heights_station"
   },
   {
     "name": "Capitol South",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Capitol_South_station"
   },
   {
     "name": "Cheverly",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1978-11-20"
+    "opened": "1978-11-20",
+    "wiki": "Cheverly_station"
   },
   {
     "name": "Clarendon",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1979-12-11"
+    "opened": "1979-12-11",
+    "wiki": "Clarendon_station"
   },
   {
     "name": "Cleveland Park",
     "system": "wmata",
     "line": "Red",
-    "opened": "1981-12-05"
+    "opened": "1981-12-05",
+    "wiki": "Cleveland_Park_station"
   },
   {
     "name": "College Park–University of Maryland",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1993-12-11"
+    "opened": "1993-12-11",
+    "wiki": "College_Park–University_of_Maryland_station"
   },
   {
     "name": "Columbia Heights",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1999-09-18"
+    "opened": "1999-09-18",
+    "wiki": "Columbia_Heights_station"
   },
   {
     "name": "Congress Heights",
     "system": "wmata",
     "line": "Green",
-    "opened": "2001-01-13"
+    "opened": "2001-01-13",
+    "wiki": "Congress_Heights_station"
   },
   {
     "name": "Court House",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1979-12-11"
+    "opened": "1979-12-11",
+    "wiki": "Court_House_station"
   },
   {
     "name": "Crystal City",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Crystal_City_station_(Washington_Metro)"
   },
   {
     "name": "Deanwood",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1978-11-20"
+    "opened": "1978-11-20",
+    "wiki": "Deanwood_station"
   },
   {
     "name": "Downtown Largo",
     "system": "wmata",
     "line": "Silver, Blue",
-    "opened": "2004-12-18"
+    "opened": "2004-12-18",
+    "wiki": "Downtown_Largo_station"
   },
   {
     "name": "Dunn Loring",
     "system": "wmata",
     "line": "Orange",
-    "opened": "1986-06-07"
+    "opened": "1986-06-07",
+    "wiki": "Dunn_Loring_station"
   },
   {
     "name": "Dupont Circle",
     "system": "wmata",
     "line": "Red",
-    "opened": "1977-01-17"
+    "opened": "1977-01-17",
+    "wiki": "Dupont_Circle_station"
   },
   {
-    "name": "East Falls Church*",
+    "name": "East Falls Church",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1986-06-07"
+    "opened": "1986-06-07",
+    "wiki": "East_Falls_Church_station"
   },
   {
     "name": "Eastern Market",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Eastern_Market_station"
   },
   {
     "name": "Eisenhower Avenue",
     "system": "wmata",
     "line": "Yellow",
-    "opened": "1983-12-17"
+    "opened": "1983-12-17",
+    "wiki": "Eisenhower_Avenue_station"
   },
   {
     "name": "Farragut North",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-03-29"
+    "opened": "1976-03-29",
+    "wiki": "Farragut_North_station"
   },
   {
     "name": "Farragut West",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Farragut_West_station"
   },
   {
     "name": "Federal Center SW",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Federal_Center_SW_station"
   },
   {
     "name": "Federal Triangle",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Federal_Triangle_station"
   },
   {
     "name": "Foggy Bottom–GWU",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Foggy_Bottom–GWU_station"
   },
   {
     "name": "Forest Glen",
     "system": "wmata",
     "line": "Red",
-    "opened": "1990-09-22"
+    "opened": "1990-09-22",
+    "wiki": "Forest_Glen_station"
   },
   {
-    "name": "Fort Totten* (upper level)",
+    "name": "Fort Totten (upper level)",
     "system": "wmata",
     "line": "Red",
-    "opened": "1978-02-06"
+    "opened": "1978-02-06",
+    "wiki": "Fort_Totten_station"
   },
   {
-    "name": "Fort Totten* (lower level)",
+    "name": "Fort Totten (lower level)",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1993-12-11"
+    "opened": "1993-12-11",
+    "wiki": "Fort_Totten_station"
   },
   {
-    "name": "Franconia–Springfield*",
+    "name": "Franconia–Springfield",
     "system": "wmata",
     "line": "Blue",
-    "opened": "1997-06-29"
+    "opened": "1997-06-29",
+    "wiki": "Franconia–Springfield_station"
   },
   {
     "name": "Friendship Heights",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-08-25"
+    "opened": "1984-08-25",
+    "wiki": "Friendship_Heights_station"
   },
   {
-    "name": "Gallery Place* (upper level)",
+    "name": "Gallery Place (upper level)",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-12-15"
+    "opened": "1976-12-15",
+    "wiki": "Gallery_Place_station"
   },
   {
-    "name": "Gallery Place* (lower level)",
+    "name": "Gallery Place (lower level)",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1983-04-30"
+    "opened": "1983-04-30",
+    "wiki": "Gallery_Place_station"
   },
   {
     "name": "Georgia Avenue–Petworth",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1999-09-18"
+    "opened": "1999-09-18",
+    "wiki": "Georgia_Avenue–Petworth_station"
   },
   {
     "name": "Glenmont",
     "system": "wmata",
     "line": "Red",
-    "opened": "1998-07-25"
+    "opened": "1998-07-25",
+    "wiki": "Glenmont_station"
   },
   {
-    "name": "Greenbelt*",
+    "name": "Greenbelt",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1993-12-11"
+    "opened": "1993-12-11",
+    "wiki": "Greenbelt_station"
   },
   {
     "name": "Greensboro",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2014-07-26"
+    "opened": "2014-07-26",
+    "wiki": "Greensboro_station_(Washington_Metro)"
   },
   {
     "name": "Grosvenor–Strathmore",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-08-25"
+    "opened": "1984-08-25",
+    "wiki": "Grosvenor–Strathmore_station"
   },
   {
     "name": "Herndon",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Herndon_station"
   },
   {
     "name": "Huntington",
     "system": "wmata",
     "line": "Yellow",
-    "opened": "1983-12-17"
+    "opened": "1983-12-17",
+    "wiki": "Huntington_station_(Washington_Metro)"
   },
   {
     "name": "Hyattsville Crossing",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1993-12-11"
+    "opened": "1993-12-11",
+    "wiki": "Hyattsville_Crossing_station"
   },
   {
     "name": "Innovation Center",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Innovation_Center_station"
   },
   {
     "name": "Judiciary Square",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-03-29"
+    "opened": "1976-03-29",
+    "wiki": "Judiciary_Square_station"
   },
   {
-    "name": "King Street–Old Town*",
+    "name": "King Street–Old Town",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1983-12-17"
+    "opened": "1983-12-17",
+    "wiki": "King_Street–Old_Town_station"
   },
   {
-    "name": "L'Enfant Plaza* (upper level)",
+    "name": "L'Enfant Plaza (upper level)",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1983-04-30"
+    "opened": "1983-04-30",
+    "wiki": "L'Enfant_Plaza_station"
   },
   {
-    "name": "L'Enfant Plaza* (lower level)",
+    "name": "L'Enfant Plaza (lower level)",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "L'Enfant_Plaza_station"
   },
   {
     "name": "Landover",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1978-11-20"
+    "opened": "1978-11-20",
+    "wiki": "Landover_station"
   },
   {
     "name": "Loudoun Gateway",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Loudoun_Gateway_station"
   },
   {
     "name": "McLean",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2014-07-26"
+    "opened": "2014-07-26",
+    "wiki": "McLean_station"
   },
   {
     "name": "McPherson Square",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "McPherson_Square_station"
   },
   {
     "name": "Medical Center",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-08-25"
+    "opened": "1984-08-25",
+    "wiki": "Medical_Center_station_(Washington_Metro)"
   },
   {
-    "name": "Metro Center* (upper level)",
+    "name": "Metro Center (upper level)",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-03-29"
+    "opened": "1976-03-29",
+    "wiki": "Metro_Center_station"
   },
   {
-    "name": "Metro Center* (lower level)",
+    "name": "Metro Center (lower level)",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Metro_Center_station"
   },
   {
     "name": "Minnesota Avenue",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1978-11-20"
+    "opened": "1978-11-20",
+    "wiki": "Minnesota_Avenue_station"
   },
   {
     "name": "Morgan Boulevard",
     "system": "wmata",
     "line": "Silver, Blue",
-    "opened": "2004-12-18"
+    "opened": "2004-12-18",
+    "wiki": "Morgan_Boulevard_station"
   },
   {
-    "name": "Mount Vernon Square*",
+    "name": "Mount Vernon Square",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1991-05-11"
+    "opened": "1991-05-11",
+    "wiki": "Mount_Vernon_Square_station"
   },
   {
     "name": "Navy Yard–Ballpark",
     "system": "wmata",
     "line": "Green",
-    "opened": "1991-12-28"
+    "opened": "1991-12-28",
+    "wiki": "Navy_Yard–Ballpark_station"
   },
   {
     "name": "Naylor Road",
     "system": "wmata",
     "line": "Green",
-    "opened": "2001-01-13"
+    "opened": "2001-01-13",
+    "wiki": "Naylor_Road_station"
   },
   {
-    "name": "New Carrollton*",
+    "name": "New Carrollton",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1978-11-20"
+    "opened": "1978-11-20",
+    "wiki": "New_Carrollton_station"
   },
   {
     "name": "NoMa–Gallaudet U",
     "system": "wmata",
     "line": "Red",
-    "opened": "2004-11-20"
+    "opened": "2004-11-20",
+    "wiki": "NoMa–Gallaudet_U_station"
   },
   {
     "name": "North Bethesda",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "North_Bethesda_station"
   },
   {
-    "name": "Pentagon*",
+    "name": "Pentagon",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Pentagon_station"
   },
   {
     "name": "Pentagon City",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Pentagon_City_station"
   },
   {
     "name": "Potomac Avenue",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Potomac_Avenue_station"
   },
   {
     "name": "Potomac Yard",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "2023-05-19"
+    "opened": "2023-05-19",
+    "wiki": "Potomac_Yard_station"
   },
   {
     "name": "Reston Town Center",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Reston_Town_Center_station"
   },
   {
     "name": "Rhode Island Avenue",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-03-29"
+    "opened": "1976-03-29",
+    "wiki": "Rhode_Island_Avenue_station"
   },
   {
     "name": "Rockville",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Rockville_station"
   },
   {
-    "name": "Washington National Airport",
+    "name": "Ronald Reagan WashingtonNational Airport",
     "system": "wmata",
     "line": "Yellow, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Ronald_Reagan_Washington_National_Airport_station"
   },
   {
-    "name": "Rosslyn*",
+    "name": "Rosslyn",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Rosslyn_station"
   },
   {
     "name": "Shady Grove",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Shady_Grove_station"
   },
   {
     "name": "Shaw–Howard University",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1991-05-11"
+    "opened": "1991-05-11",
+    "wiki": "Shaw–Howard_University_station"
   },
   {
     "name": "Silver Spring",
     "system": "wmata",
     "line": "Red",
-    "opened": "1978-02-06"
+    "opened": "1978-02-06",
+    "wiki": "Silver_Spring_station"
   },
   {
     "name": "Smithsonian",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Smithsonian_station"
   },
   {
     "name": "Southern Avenue",
     "system": "wmata",
     "line": "Green",
-    "opened": "2001-01-13"
+    "opened": "2001-01-13",
+    "wiki": "Southern_Avenue_station"
   },
   {
     "name": "Spring Hill",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2014-07-26"
+    "opened": "2014-07-26",
+    "wiki": "Spring_Hill_station"
   },
   {
-    "name": "Stadium–Armory*",
+    "name": "Stadium–Armory",
     "system": "wmata",
     "line": "Orange, Silver, Blue",
-    "opened": "1977-07-01"
+    "opened": "1977-07-01",
+    "wiki": "Stadium–Armory_station"
   },
   {
     "name": "Suitland",
     "system": "wmata",
     "line": "Green",
-    "opened": "2001-01-13"
+    "opened": "2001-01-13",
+    "wiki": "Suitland_station"
   },
   {
     "name": "Takoma",
     "system": "wmata",
     "line": "Red",
-    "opened": "1978-02-06"
+    "opened": "1978-02-06",
+    "wiki": "Takoma_station"
   },
   {
     "name": "Tenleytown–AU",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-08-25"
+    "opened": "1984-08-25",
+    "wiki": "Tenleytown–AU_station"
   },
   {
     "name": "Twinbrook",
     "system": "wmata",
     "line": "Red",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Twinbrook_station"
   },
   {
     "name": "Tysons",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2014-07-26"
+    "opened": "2014-07-26",
+    "wiki": "Tysons_station"
   },
   {
     "name": "U Street",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1991-05-11"
+    "opened": "1991-05-11",
+    "wiki": "U_Street_station"
   },
   {
     "name": "Union Station",
     "system": "wmata",
     "line": "Red",
-    "opened": "1976-03-29"
+    "opened": "1976-03-29",
+    "wiki": "Union_Station_(Washington_Metro)"
   },
   {
     "name": "Van Dorn Street",
     "system": "wmata",
     "line": "Blue",
-    "opened": "1991-06-15"
+    "opened": "1991-06-15",
+    "wiki": "Van_Dorn_Street_station"
   },
   {
     "name": "Van Ness–UDC",
     "system": "wmata",
     "line": "Red",
-    "opened": "1981-12-05"
+    "opened": "1981-12-05",
+    "wiki": "Van_Ness–UDC_station"
   },
   {
     "name": "Vienna",
     "system": "wmata",
     "line": "Orange",
-    "opened": "1986-06-07"
+    "opened": "1986-06-07",
+    "wiki": "Vienna_station_(Washington_Metro)"
   },
   {
     "name": "Virginia Square–GMU",
     "system": "wmata",
     "line": "Orange, Silver",
-    "opened": "1979-12-11"
+    "opened": "1979-12-11",
+    "wiki": "Virginia_Square–GMU_station"
   },
   {
     "name": "Washington Dulles International Airport",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2022-11-15"
+    "opened": "2022-11-15",
+    "wiki": "Washington_Dulles_International_Airport_station"
   },
   {
     "name": "Waterfront",
     "system": "wmata",
     "line": "Green",
-    "opened": "1991-12-28"
+    "opened": "1991-12-28",
+    "wiki": "Waterfront_station_(Washington_Metro)"
   },
   {
     "name": "West Falls Church",
     "system": "wmata",
     "line": "Orange",
-    "opened": "1986-06-07"
+    "opened": "1986-06-07",
+    "wiki": "West_Falls_Church_station"
   },
   {
     "name": "West Hyattsville",
     "system": "wmata",
     "line": "Yellow, Green",
-    "opened": "1993-12-11"
+    "opened": "1993-12-11",
+    "wiki": "West_Hyattsville_station"
   },
   {
     "name": "Wheaton",
     "system": "wmata",
     "line": "Red",
-    "opened": "1990-09-22"
+    "opened": "1990-09-22",
+    "wiki": "Wheaton_station_(Washington_Metro)"
   },
   {
     "name": "Wiehle–Reston East",
     "system": "wmata",
     "line": "Silver",
-    "opened": "2014-07-26"
+    "opened": "2014-07-26",
+    "wiki": "Wiehle–Reston_East_station"
   },
   {
     "name": "Woodley Park",
     "system": "wmata",
     "line": "Red",
-    "opened": "1981-12-05"
+    "opened": "1981-12-05",
+    "wiki": "Woodley_Park_station"
   },
   {
     "name": "18th",
     "system": "cta",
     "line": "Pink",
-    "opened": "1896-04-28"
+    "opened": "1896-04-28",
+    "wiki": "18th_station"
   },
   {
     "name": "35th–Bronzeville–IIT",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-06-06"
+    "opened": "1892-06-06",
+    "wiki": "35th–Bronzeville–IIT_station"
   },
   {
     "name": "35th/Archer",
     "system": "cta",
     "line": "Orange",
-    "opened": "1993-10-31"
+    "opened": "1993-10-31",
+    "wiki": "35th/Archer_station"
   },
   {
     "name": "43rd",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-08-15"
+    "opened": "1892-08-15",
+    "wiki": "43rd_station"
   },
   {
     "name": "47th",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-08-15"
+    "opened": "1892-08-15",
+    "wiki": "47th_station_(CTA_Green_Line)"
   },
   {
     "name": "51st",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-08-28"
+    "opened": "1892-08-28",
+    "wiki": "51st_station"
   },
   {
     "name": "54th/Cermak",
     "system": "cta",
     "line": "Pink",
-    "opened": "1912-08-01"
+    "opened": "1912-08-01",
+    "wiki": "54th/Cermak_station"
   },
   {
     "name": "63rd",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "63rd_station"
   },
   {
     "name": "69th",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "69th_station"
   },
   {
     "name": "79th",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "79th_station"
   },
   {
     "name": "87th",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "87th_station"
   },
   {
     "name": "95th/Dan Ryan",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "95th/Dan_Ryan_station"
   },
   {
     "name": "Adams/Wabash",
     "system": "cta",
     "line": "Brown Green Orange Pink Purple",
-    "opened": "1896-11-08"
+    "opened": "1896-11-08",
+    "wiki": "Adams/Wabash_station"
   },
   {
     "name": "Addison",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Addison_station_(CTA_Blue_Line)"
   },
   {
     "name": "Argyle",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Argyle_station_(CTA)"
   },
   {
     "name": "Armitage",
     "system": "cta",
     "line": "Brown Purple",
-    "opened": "1900-06-09"
+    "opened": "1900-06-09",
+    "wiki": "Armitage_station"
   },
   {
     "name": "Ashland",
     "system": "cta",
     "line": "Green Pink",
-    "opened": "1893-11-06"
+    "opened": "1893-11-06",
+    "wiki": "Ashland_station_(CTA_Green_and_Pink_Lines)"
   },
   {
     "name": "Ashland/63rd",
     "system": "cta",
     "line": "Green",
-    "opened": "1969-05-06"
+    "opened": "1969-05-06",
+    "wiki": "Ashland/63rd_station"
   },
   {
     "name": "Austin",
     "system": "cta",
     "line": "Blue",
-    "opened": "1960-03-20"
+    "opened": "1960-03-20",
+    "wiki": "Austin_station_(CTA_Blue_Line)"
   },
   {
     "name": "Belmont",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Belmont_station_(CTA_Blue_Line)"
   },
   {
     "name": "Berwyn",
     "system": "cta",
     "line": "Red",
-    "opened": "1916-01-01"
+    "opened": "1916-01-01",
+    "wiki": "Berwyn_station_(CTA)"
   },
   {
     "name": "Bryn Mawr",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Bryn_Mawr_station_(CTA)"
   },
   {
     "name": "California",
     "system": "cta",
     "line": "Blue",
-    "opened": "1895-05-25"
+    "opened": "1895-05-25",
+    "wiki": "California_station_(CTA_Blue_Line)"
   },
   {
     "name": "Central",
     "system": "cta",
     "line": "Green",
-    "opened": "1899-04-15"
+    "opened": "1899-04-15",
+    "wiki": "Central_station_(CTA_Green_Line)"
   },
   {
     "name": "Central Park",
     "system": "cta",
     "line": "Pink",
-    "opened": "1951-12-09"
+    "opened": "1951-12-09",
+    "wiki": "Central_Park_station_(CTA)"
   },
   {
     "name": "Cermak–Chinatown",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "Cermak–Chinatown_station"
   },
   {
     "name": "Cermak–McCormick Place",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-06-06"
+    "opened": "1892-06-06",
+    "wiki": "Cermak–McCormick_Place_station"
   },
   {
     "name": "Chicago",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Chicago_station_(CTA_Blue_Line)"
   },
   {
     "name": "Cicero",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Cicero_station_(CTA_Blue_Line)"
   },
   {
     "name": "Clark/Division",
     "system": "cta",
     "line": "Red",
-    "opened": "1943-10-17"
+    "opened": "1943-10-17",
+    "wiki": "Clark/Division_station"
   },
   {
     "name": "Clark/Lake",
     "system": "cta",
     "line": "Blue Brown Green Orange Pink Purple",
-    "opened": "1895-09-22"
+    "opened": "1895-09-22",
+    "wiki": "Clark/Lake_station"
   },
   {
     "name": "Clinton",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Clinton_station_(CTA_Blue_Line)"
   },
   {
     "name": "Conservatory–Central Park Drive",
     "system": "cta",
     "line": "Green",
-    "opened": "2001-06-30"
+    "opened": "2001-06-30",
+    "wiki": "Conservatory–Central_Park_Drive_station"
   },
   {
     "name": "Cottage Grove",
     "system": "cta",
     "line": "Green",
-    "opened": "1893-04-23"
+    "opened": "1893-04-23",
+    "wiki": "Cottage_Grove_station"
   },
   {
     "name": "Cumberland",
     "system": "cta",
     "line": "Blue",
-    "opened": "1983-02-27"
+    "opened": "1983-02-27",
+    "wiki": "Cumberland_station_(CTA)"
   },
   {
     "name": "Damen",
     "system": "cta",
     "line": "Blue",
-    "opened": "1895-05-06"
+    "opened": "1895-05-06",
+    "wiki": "Damen_station_(CTA_Blue_Line)"
   },
   {
     "name": "Davis",
     "system": "cta",
     "line": "Purple",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Davis_station_(CTA)"
   },
   {
     "name": "Dempster",
     "system": "cta",
     "line": "Purple",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Dempster_station"
   },
   {
     "name": "Dempster–Skokie",
     "system": "cta",
     "line": "Yellow",
-    "opened": "1925-03-28"
+    "opened": "1925-03-28",
+    "wiki": "Dempster–Skokie_station"
   },
   {
     "name": "Diversey",
     "system": "cta",
     "line": "Brown Purple",
-    "opened": "1900-06-09"
+    "opened": "1900-06-09",
+    "wiki": "Diversey_station"
   },
   {
     "name": "Division",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Division_station_(CTA_Blue_Line)"
   },
   {
     "name": "Forest Park",
     "system": "cta",
     "line": "Blue",
-    "opened": "1905-03-11"
+    "opened": "1905-03-11",
+    "wiki": "Forest_Park_station"
   },
   {
     "name": "Foster",
     "system": "cta",
     "line": "Purple",
-    "opened": "1909-01-06"
+    "opened": "1909-01-06",
+    "wiki": "Foster_station"
   },
   {
     "name": "Francisco",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-12-14"
+    "opened": "1907-12-14",
+    "wiki": "Francisco_station"
   },
   {
     "name": "Fullerton",
     "system": "cta",
     "line": "Brown Purple Red",
-    "opened": "1900-05-31"
+    "opened": "1900-05-31",
+    "wiki": "Fullerton_station_(CTA)"
   },
   {
     "name": "Garfield",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-10-12"
+    "opened": "1892-10-12",
+    "wiki": "Garfield_station_(CTA_Green_Line)"
   },
   {
     "name": "Grand",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Grand_station_(CTA_Blue_Line)"
   },
   {
     "name": "Granville",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Granville_station_(CTA)"
   },
   {
     "name": "Halsted",
     "system": "cta",
     "line": "Green",
-    "opened": "1906-12-24"
+    "opened": "1906-12-24",
+    "wiki": "Halsted_station_(CTA_Green_Line)"
   },
   {
     "name": "Harlem",
     "system": "cta",
     "line": "Blue",
-    "opened": "1960-03-20"
+    "opened": "1960-03-20",
+    "wiki": "Harlem_station_(CTA_Blue_Line_Forest_Park_branch)"
   },
   {
     "name": "Harlem/Lake",
     "system": "cta",
     "line": "Green",
-    "opened": "1962-10-28"
+    "opened": "1962-10-28",
+    "wiki": "Harlem/Lake_station"
   },
   {
     "name": "Harold Washington LibraryState/Van Buren",
     "system": "cta",
     "line": "Brown Orange Pink Purple",
-    "opened": "1997-06-22"
+    "opened": "1997-06-22",
+    "wiki": "Harold_Washington_Library–State/Van_Buren_station"
   },
   {
     "name": "Harrison",
     "system": "cta",
     "line": "Red",
-    "opened": "1943-10-17"
+    "opened": "1943-10-17",
+    "wiki": "Harrison_station_(CTA)"
   },
   {
     "name": "Howard",
     "system": "cta",
     "line": "Red Purple Yellow",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Howard_station_(CTA)"
   },
   {
     "name": "Illinois Medical District",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Illinois_Medical_District_station"
   },
   {
     "name": "Indiana",
     "system": "cta",
     "line": "Green",
-    "opened": "1892-08-15"
+    "opened": "1892-08-15",
+    "wiki": "Indiana_station_(CTA)"
   },
   {
     "name": "Irving Park",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Irving_Park_station_(CTA_Blue_Line)"
   },
   {
     "name": "Jackson",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Jackson_station_(CTA_Blue_Line)"
   },
   {
     "name": "Jarvis",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Jarvis_station"
   },
   {
     "name": "Jefferson Park",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Jefferson_Park_Transit_Center"
   },
   {
     "name": "Kedzie",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-12-14"
+    "opened": "1907-12-14",
+    "wiki": "Kedzie_station_(CTA_Brown_Line)"
   },
   {
     "name": "Kedzie–Homan",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Kedzie–Homan_station"
   },
   {
     "name": "Kimball",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-12-14"
+    "opened": "1907-12-14",
+    "wiki": "Kimball_station"
   },
   {
     "name": "King Drive",
     "system": "cta",
     "line": "Green",
-    "opened": "1893-05-01"
+    "opened": "1893-05-01",
+    "wiki": "King_Drive_station"
   },
   {
     "name": "Kostner",
     "system": "cta",
     "line": "Pink",
-    "opened": "1907-05-22"
+    "opened": "1907-05-22",
+    "wiki": "Kostner_station_(CTA_Pink_Line)"
   },
   {
     "name": "Lake",
     "system": "cta",
     "line": "Red",
-    "opened": "1997-11-18"
+    "opened": "1997-11-18",
+    "wiki": "Lake_station_(CTA)"
   },
   {
     "name": "Laramie",
     "system": "cta",
     "line": "Green",
-    "opened": "1894-04-23"
+    "opened": "1894-04-23",
+    "wiki": "Laramie_station_(CTA_Green_Line)"
   },
   {
     "name": "LaSalle",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "LaSalle_station_(CTA)"
   },
   {
     "name": "LaSalle/Van Buren",
     "system": "cta",
     "line": "Brown Orange Pink Purple",
-    "opened": "1897-10-03"
+    "opened": "1897-10-03",
+    "wiki": "LaSalle/Van_Buren_station"
   },
   {
     "name": "Lawrence",
     "system": "cta",
     "line": "Red",
-    "opened": "1923-02-27"
+    "opened": "1923-02-27",
+    "wiki": "Lawrence_station_(CTA)"
   },
   {
     "name": "Linden",
     "system": "cta",
     "line": "Purple",
-    "opened": "1912-04-02"
+    "opened": "1912-04-02",
+    "wiki": "Linden_station_(CTA)"
   },
   {
     "name": "Logan Square",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Logan_Square_station"
   },
   {
     "name": "Loyola",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Loyola_station"
   },
   {
     "name": "Main",
     "system": "cta",
     "line": "Purple",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Main_station_(CTA)"
   },
   {
     "name": "Merchandise Mart",
     "system": "cta",
     "line": "Brown Purple",
-    "opened": "1930-12-05"
+    "opened": "1930-12-05",
+    "wiki": "Merchandise_Mart_station"
   },
   {
     "name": "Midway",
     "system": "cta",
     "line": "Orange",
-    "opened": "1993-10-31"
+    "opened": "1993-10-31",
+    "wiki": "Midway_station_(CTA)"
   },
   {
     "name": "Monroe",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Monroe_station_(CTA_Blue_Line)"
   },
   {
     "name": "Montrose",
     "system": "cta",
     "line": "Blue",
-    "opened": "1970-02-01"
+    "opened": "1970-02-01",
+    "wiki": "Montrose_station_(CTA_Blue_Line)"
   },
   {
     "name": "Morgan",
     "system": "cta",
     "line": "Green Pink",
-    "opened": "1893-11-06"
+    "opened": "1893-11-06",
+    "wiki": "Morgan_station"
   },
   {
     "name": "Morse",
     "system": "cta",
     "line": "Red",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Morse_station"
   },
   {
     "name": "North/Clybourn",
     "system": "cta",
     "line": "Red",
-    "opened": "1943-10-17"
+    "opened": "1943-10-17",
+    "wiki": "North/Clybourn_station"
   },
   {
     "name": "Noyes",
     "system": "cta",
     "line": "Purple",
-    "opened": "1908-05-16"
+    "opened": "1908-05-16",
+    "wiki": "Noyes_station"
   },
   {
     "name": "O'Hare",
     "system": "cta",
     "line": "Blue",
-    "opened": "1984-09-03"
+    "opened": "1984-09-03",
+    "wiki": "O'Hare_station"
   },
   {
     "name": "Oak Park",
     "system": "cta",
     "line": "Blue",
-    "opened": "1960-03-20"
+    "opened": "1960-03-20",
+    "wiki": "Oak_Park_station_(CTA_Blue_Line)"
   },
   {
     "name": "Oakton–Skokie",
     "system": "cta",
     "line": "Yellow",
-    "opened": "1925-03-28"
+    "opened": "1925-03-28",
+    "wiki": "Oakton–Skokie_station"
   },
   {
     "name": "Paulina",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-05-18"
+    "opened": "1907-05-18",
+    "wiki": "Paulina_station"
   },
   {
     "name": "Polk",
     "system": "cta",
     "line": "Pink",
-    "opened": "1896-04-28"
+    "opened": "1896-04-28",
+    "wiki": "Polk_station"
   },
   {
     "name": "Pulaski",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Pulaski_station_(CTA_Blue_Line)"
   },
   {
     "name": "Quincy",
     "system": "cta",
     "line": "Brown Orange Pink Purple",
-    "opened": "1897-10-03"
+    "opened": "1897-10-03",
+    "wiki": "Quincy_station_(CTA)"
   },
   {
     "name": "Racine",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "Racine_station_(CTA_Blue_Line)"
   },
   {
     "name": "Ridgeland",
     "system": "cta",
     "line": "Green",
-    "opened": "1901-01-25"
+    "opened": "1901-01-25",
+    "wiki": "Ridgeland_station"
   },
   {
     "name": "Rockwell",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-12-14"
+    "opened": "1907-12-14",
+    "wiki": "Rockwell_station"
   },
   {
     "name": "Roosevelt",
     "system": "cta",
     "line": "Green Orange Red",
-    "opened": "1892-06-06"
+    "opened": "1892-06-06",
+    "wiki": "Roosevelt_station_(CTA)"
   },
   {
     "name": "Rosemont",
     "system": "cta",
     "line": "Blue",
-    "opened": "1983-02-27"
+    "opened": "1983-02-27",
+    "wiki": "Rosemont_station_(CTA)"
   },
   {
     "name": "Sedgwick",
     "system": "cta",
     "line": "Brown Purple",
-    "opened": "1900-05-31"
+    "opened": "1900-05-31",
+    "wiki": "Sedgwick_station_(CTA)"
   },
   {
     "name": "Sheridan",
     "system": "cta",
     "line": "Red",
-    "opened": "1900-05-31"
+    "opened": "1900-05-31",
+    "wiki": "Sheridan_station_(CTA)"
   },
   {
     "name": "South Boulevard",
     "system": "cta",
     "line": "Purple",
-    "opened": "1931-07-01"
+    "opened": "1931-07-01",
+    "wiki": "South_Boulevard_station"
   },
   {
     "name": "Southport",
     "system": "cta",
     "line": "Brown",
-    "opened": "1907-05-18"
+    "opened": "1907-05-18",
+    "wiki": "Southport_station_(CTA)"
   },
   {
     "name": "Sox–35th",
     "system": "cta",
     "line": "Red",
-    "opened": "1969-09-28"
+    "opened": "1969-09-28",
+    "wiki": "Sox–35th_station"
   },
   {
     "name": "State/Lake",
     "system": "cta",
     "line": "Brown Green Orange Pink Purple",
-    "opened": "1895-09-22"
+    "opened": "1895-09-22",
+    "wiki": "State/Lake_station"
   },
   {
     "name": "Thorndale",
     "system": "cta",
     "line": "Red",
-    "opened": "1915-02-14"
+    "opened": "1915-02-14",
+    "wiki": "Thorndale_station_(CTA)"
   },
   {
     "name": "UIC–Halsted",
     "system": "cta",
     "line": "Blue",
-    "opened": "1958-06-22"
+    "opened": "1958-06-22",
+    "wiki": "UIC–Halsted_station"
   },
   {
     "name": "Washington",
     "system": "cta",
     "line": "Blue",
-    "opened": "1951-02-25"
+    "opened": "1951-02-25",
+    "wiki": "Washington_station_(CTA_Blue_Line)"
   },
   {
     "name": "Washington/Wabash",
     "system": "cta",
     "line": "Brown Green Orange Pink Purple",
-    "opened": "2017-08-31"
+    "opened": "2017-08-31",
+    "wiki": "Washington/Wabash_station"
   },
   {
     "name": "Washington/Wells",
     "system": "cta",
     "line": "Brown Orange Pink Purple",
-    "opened": "1995-07-17"
+    "opened": "1995-07-17",
+    "wiki": "Washington/Wells_station"
   },
   {
     "name": "Wellington",
     "system": "cta",
     "line": "Brown Purple",
-    "opened": "1900-05-31"
+    "opened": "1900-05-31",
+    "wiki": "Wellington_station_(CTA)"
   },
   {
     "name": "Western",
     "system": "cta",
     "line": "Blue",
-    "opened": "1895-05-25"
+    "opened": "1895-05-25",
+    "wiki": "Western_station_(CTA_Blue_Line_O'Hare_branch)"
   },
   {
     "name": "Wilson",
     "system": "cta",
     "line": "Purple Red",
-    "opened": "1900-05-31"
+    "opened": "1900-05-31",
+    "wiki": "Wilson_station_(CTA)"
   },
   {
     "name": "12th Street Oakland City Center",
     "system": "bart",
     "line": "Orange Line Red Line Yellow Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "12th_Street_Oakland_City_Center_station"
   },
   {
     "name": "16th Street Mission",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "16th_Street_Mission_station"
   },
   {
-    "name": "19th Street Oakland ^",
+    "name": "19th Street Oakland",
     "system": "bart",
     "line": "Orange Line Red Line Yellow Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "19th_Street_Oakland_station"
   },
   {
     "name": "24th Street Mission",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "24th_Street_Mission_station"
   },
   {
     "name": "Antioch",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "2018-05-26"
+    "opened": "2018-05-26",
+    "wiki": "Antioch_station_(BART)"
   },
   {
     "name": "Ashby",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "Ashby_station_(BART)"
   },
   {
-    "name": "Balboa Park ^",
+    "name": "Balboa Park",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Balboa_Park_station"
   },
   {
-    "name": "Bay Fair ^",
+    "name": "Bay Fair",
     "system": "bart",
     "line": "Blue Line Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Bay_Fair_station"
   },
   {
     "name": "Downtown Berkeley",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "Downtown_Berkeley_station"
   },
   {
     "name": "Berryessa",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "2020-06-13"
+    "opened": "2020-06-13",
+    "wiki": "Berryessa/North_San_José_station"
   },
   {
     "name": "Castro Valley",
     "system": "bart",
     "line": "Blue Line",
-    "opened": "1997-05-10"
+    "opened": "1997-05-10",
+    "wiki": "Castro_Valley_station"
   },
   {
     "name": "Civic Center/UN Plaza",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Civic_Center/UN_Plaza_station"
   },
   {
     "name": "Coliseum",
     "system": "bart",
     "line": "Oakland Airport Connector Blue Line Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Oakland_Coliseum_station"
   },
   {
     "name": "Colma",
     "system": "bart",
     "line": "Red Line Yellow Line",
-    "opened": "1996-02-24"
+    "opened": "1996-02-24",
+    "wiki": "Colma_station"
   },
   {
     "name": "Concord",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Concord_station_(BART)"
   },
   {
     "name": "Daly City",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Daly_City_station"
   },
   {
     "name": "Dublin/Pleasanton",
     "system": "bart",
     "line": "Blue Line",
-    "opened": "1997-05-10"
+    "opened": "1997-05-10",
+    "wiki": "Dublin/Pleasanton_station"
   },
   {
     "name": "El Cerrito del Norte",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "El_Cerrito_del_Norte_station"
   },
   {
     "name": "El Cerrito Plaza",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "El_Cerrito_Plaza_station"
   },
   {
     "name": "Embarcadero",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1976-05-27"
+    "opened": "1976-05-27",
+    "wiki": "Embarcadero_station"
   },
   {
     "name": "Fremont",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Fremont_station_(BART)"
   },
   {
     "name": "Fruitvale",
     "system": "bart",
     "line": "Blue Line Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Fruitvale_station"
   },
   {
     "name": "Glen Park",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Glen_Park_station"
   },
   {
     "name": "Hayward",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Hayward_station_(BART)"
   },
   {
     "name": "Lafayette",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Lafayette_station_(BART)"
   },
   {
     "name": "Lake Merritt",
     "system": "bart",
     "line": "Blue Line Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Lake_Merritt_station"
   },
   {
-    "name": "MacArthur ^",
+    "name": "MacArthur",
     "system": "bart",
     "line": "Orange Line Red Line Yellow Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "MacArthur_station_(BART)"
   },
   {
     "name": "Millbrae",
     "system": "bart",
     "line": "Red Line Yellow Line",
-    "opened": "2003-06-22"
+    "opened": "2003-06-22",
+    "wiki": "Millbrae_station"
   },
   {
     "name": "Milpitas",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "2020-06-13"
+    "opened": "2020-06-13",
+    "wiki": "Milpitas_station"
   },
   {
     "name": "Montgomery Street",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Montgomery_Street_station"
   },
   {
     "name": "North Berkeley",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "North_Berkeley_station"
   },
   {
     "name": "North Concord/Martinez",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1995-12-16"
+    "opened": "1995-12-16",
+    "wiki": "North_Concord/Martinez_station"
   },
   {
     "name": "Oakland International Airport",
     "system": "bart",
     "line": "Oakland Airport Connector",
-    "opened": "2014-11-22"
+    "opened": "2014-11-22",
+    "wiki": "Oakland_International_Airport_station"
   },
   {
     "name": "Orinda",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Orinda_station"
   },
   {
     "name": "Pittsburg/Bay Point",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1996-12-07"
+    "opened": "1996-12-07",
+    "wiki": "Pittsburg/Bay_Point_station"
   },
   {
     "name": "Pittsburg Center",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "2018-05-26"
+    "opened": "2018-05-26",
+    "wiki": "Pittsburg_Center_station"
   },
   {
     "name": "Pleasant Hill/Contra Costa Centre",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Pleasant_Hill/Contra_Costa_Centre_station"
   },
   {
     "name": "Powell Street",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1973-11-05"
+    "opened": "1973-11-05",
+    "wiki": "Powell_Street_station"
   },
   {
     "name": "Richmond",
     "system": "bart",
     "line": "Orange Line Red Line",
-    "opened": "1973-01-29"
+    "opened": "1973-01-29",
+    "wiki": "Richmond_station_(California)"
   },
   {
     "name": "Rockridge",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Rockridge_station"
   },
   {
     "name": "San Bruno",
     "system": "bart",
     "line": "Red Line Yellow Line",
-    "opened": "2003-06-22"
+    "opened": "2003-06-22",
+    "wiki": "San_Bruno_station_(BART)"
   },
   {
     "name": "San Francisco International Airport",
     "system": "bart",
     "line": "Yellow Line Red Line",
-    "opened": "2003-06-22"
+    "opened": "2003-06-22",
+    "wiki": "San_Francisco_International_Airport_station"
   },
   {
     "name": "San Leandro",
     "system": "bart",
     "line": "Blue Line Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "San_Leandro_station"
   },
   {
     "name": "South Hayward",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "South_Hayward_station"
   },
   {
     "name": "South San Francisco",
     "system": "bart",
     "line": "Red Line Yellow Line",
-    "opened": "2003-06-22"
+    "opened": "2003-06-22",
+    "wiki": "South_San_Francisco_station_(BART)"
   },
   {
     "name": "Union City",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "1972-09-11"
+    "opened": "1972-09-11",
+    "wiki": "Union_City_station"
   },
   {
     "name": "Walnut Creek",
     "system": "bart",
     "line": "Yellow Line",
-    "opened": "1973-05-21"
+    "opened": "1973-05-21",
+    "wiki": "Walnut_Creek_station"
   },
   {
     "name": "Warm Springs/South Fremont",
     "system": "bart",
     "line": "Green Line Orange Line",
-    "opened": "2017-03-25"
+    "opened": "2017-03-25",
+    "wiki": "Warm_Springs/South_Fremont_station"
   },
   {
     "name": "West Dublin/Pleasanton",
     "system": "bart",
     "line": "Blue Line",
-    "opened": "2011-02-19"
+    "opened": "2011-02-19",
+    "wiki": "West_Dublin/Pleasanton_station"
   },
   {
     "name": "West Oakland",
     "system": "bart",
     "line": "Blue Line Green Line Red Line Yellow Line",
-    "opened": "1974-09-16"
+    "opened": "1974-09-16",
+    "wiki": "West_Oakland_station"
   },
   {
     "name": "Airport",
     "system": "marta",
     "line": "",
-    "opened": "1988-06-18"
+    "opened": "1988-06-18",
+    "wiki": "Airport_station_(MARTA)"
   },
   {
     "name": "Arts Center",
     "system": "marta",
     "line": "",
-    "opened": "1982-12-18"
+    "opened": "1982-12-18",
+    "wiki": "Arts_Center_station_(MARTA)"
   },
   {
     "name": "Ashby",
     "system": "marta",
     "line": "",
-    "opened": "1979-12-22"
+    "opened": "1979-12-22",
+    "wiki": "Ashby_station_(MARTA)"
   },
   {
     "name": "Avondale",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "Avondale_station_(MARTA)"
   },
   {
     "name": "Bankhead",
     "system": "marta",
     "line": "",
-    "opened": "1992-12-12"
+    "opened": "1992-12-12",
+    "wiki": "Bankhead_station"
   },
   {
     "name": "Brookhaven/Oglethorpe",
     "system": "marta",
     "line": "",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Brookhaven/Oglethorpe_station"
   },
   {
     "name": "Buckhead",
     "system": "marta",
     "line": "",
-    "opened": "1996-06-08"
+    "opened": "1996-06-08",
+    "wiki": "Buckhead_station"
   },
   {
     "name": "Chamblee",
     "system": "marta",
     "line": "",
-    "opened": "1987-12-19"
+    "opened": "1987-12-19",
+    "wiki": "Chamblee_station"
   },
   {
     "name": "Civic Center",
     "system": "marta",
     "line": "",
-    "opened": "1981-12-04"
+    "opened": "1981-12-04",
+    "wiki": "Civic_Center_station_(MARTA)"
   },
   {
     "name": "College Park",
     "system": "marta",
     "line": "",
-    "opened": "1988-06-18"
+    "opened": "1988-06-18",
+    "wiki": "College_Park_station_(MARTA)"
   },
   {
     "name": "Decatur",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "Decatur_station"
   },
   {
     "name": "Doraville",
     "system": "marta",
     "line": "",
-    "opened": "1992-12-12"
+    "opened": "1992-12-12",
+    "wiki": "Doraville_station"
   },
   {
     "name": "Dunwoody",
     "system": "marta",
     "line": "",
-    "opened": "1996-06-08"
+    "opened": "1996-06-08",
+    "wiki": "Dunwoody_station"
   },
   {
     "name": "East Lake",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "East_Lake_station"
   },
   {
     "name": "East Point",
     "system": "marta",
     "line": "",
-    "opened": "1986-08-16"
+    "opened": "1986-08-16",
+    "wiki": "East_Point_station"
   },
   {
     "name": "Edgewood/Candler Park",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "Edgewood/Candler_Park_station"
   },
   {
-    "name": "Five Points*",
+    "name": "Five Points",
     "system": "marta",
     "line": "",
-    "opened": "1981-12-04"
+    "opened": "1981-12-04",
+    "wiki": "Five_Points_station"
   },
   {
     "name": "Garnett",
     "system": "marta",
     "line": "",
-    "opened": "1981-12-04"
+    "opened": "1981-12-04",
+    "wiki": "Garnett_station"
   },
   {
     "name": "Georgia State",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "Georgia_State_station"
   },
   {
     "name": "SEC District",
     "system": "marta",
     "line": "",
-    "opened": "1979-12-22"
+    "opened": "1979-12-22",
+    "wiki": "SEC_District_station"
   },
   {
     "name": "H. E. Holmes",
     "system": "marta",
     "line": "",
-    "opened": "1979-12-22"
+    "opened": "1979-12-22",
+    "wiki": "Hamilton_E._Holmes_station"
   },
   {
     "name": "Indian Creek",
     "system": "marta",
     "line": "",
-    "opened": "1993-06-26"
+    "opened": "1993-06-26",
+    "wiki": "Indian_Creek_station"
   },
   {
     "name": "Inman Park/Reynoldstown",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "Inman_Park/Reynoldstown_station"
   },
   {
     "name": "Kensington",
     "system": "marta",
     "line": "",
-    "opened": "1993-06-26"
+    "opened": "1993-06-26",
+    "wiki": "Kensington_station_(MARTA)"
   },
   {
     "name": "King Memorial",
     "system": "marta",
     "line": "",
-    "opened": "1979-06-30"
+    "opened": "1979-06-30",
+    "wiki": "King_Memorial_station"
   },
   {
     "name": "Lakewood/Fort McPherson",
     "system": "marta",
     "line": "",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Lakewood/Fort_McPherson_station"
   },
   {
     "name": "Lenox",
     "system": "marta",
     "line": "",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Lenox_station_(MARTA)"
   },
   {
     "name": "Lindbergh Center",
     "system": "marta",
     "line": "",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Lindbergh_Center_station"
   },
   {
     "name": "Medical Center",
     "system": "marta",
     "line": "",
-    "opened": "1996-06-08"
+    "opened": "1996-06-08",
+    "wiki": "Medical_Center_station_(MARTA)"
   },
   {
     "name": "Midtown",
     "system": "marta",
     "line": "",
-    "opened": "1982-12-18"
+    "opened": "1982-12-18",
+    "wiki": "Midtown_station_(MARTA)"
   },
   {
     "name": "North Avenue",
     "system": "marta",
     "line": "",
-    "opened": "1981-12-04"
+    "opened": "1981-12-04",
+    "wiki": "North_Avenue_station_(MARTA)"
   },
   {
     "name": "North Springs",
     "system": "marta",
     "line": "",
-    "opened": "2000-12-16"
+    "opened": "2000-12-16",
+    "wiki": "North_Springs_station"
   },
   {
     "name": "Oakland City",
     "system": "marta",
     "line": "",
-    "opened": "1984-12-15"
+    "opened": "1984-12-15",
+    "wiki": "Oakland_City_station"
   },
   {
     "name": "Peachtree Center",
     "system": "marta",
     "line": "",
-    "opened": "1982-09-11"
+    "opened": "1982-09-11",
+    "wiki": "Peachtree_Center_station"
   },
   {
     "name": "Sandy Springs",
     "system": "marta",
     "line": "",
-    "opened": "2000-12-16"
+    "opened": "2000-12-16",
+    "wiki": "Sandy_Springs_station"
   },
   {
     "name": "Vine City",
     "system": "marta",
     "line": "",
-    "opened": "1979-12-22"
+    "opened": "1979-12-22",
+    "wiki": "Vine_City_station"
   },
   {
     "name": "West End",
     "system": "marta",
     "line": "",
-    "opened": "1982-09-11"
+    "opened": "1982-09-11",
+    "wiki": "West_End_station_(MARTA)"
   },
   {
     "name": "West Lake",
     "system": "marta",
     "line": "",
-    "opened": "1979-12-22"
+    "opened": "1979-12-22",
+    "wiki": "West_Lake_station_(MARTA)"
   }
 ]

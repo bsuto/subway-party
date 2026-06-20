@@ -231,6 +231,9 @@ async function scrapeSystem(config) {
       if (rowCells.length > 0 && rowCells.every((c) => c.tagName === "th")) continue;
 
       const name = cleanText(row[nameIdx], $);
+      const nameLink = $(row[nameIdx]).find("a[href]").first();
+      const href = nameLink.attr("href") || "";
+      const wiki = href.startsWith("./") ? href.slice(2) : "";
       let line = lineIdx >= 0 && row[lineIdx] ? cleanText(row[lineIdx], $) : "";
       // For systems using color-icon templates (e.g. WMATA), extract from data-mw
       if (config.useTemplateLines && lineIdx >= 0 && row[lineIdx]) {
@@ -251,12 +254,9 @@ async function scrapeSystem(config) {
         continue;
       }
 
-      stations.push({
-        name,
-        system: config.id,
-        line,
-        opened,
-      });
+      const entry = { name, system: config.id, line, opened };
+      if (wiki) entry.wiki = decodeURIComponent(wiki);
+      stations.push(entry);
     }
   }
 

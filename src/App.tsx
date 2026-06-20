@@ -10,6 +10,7 @@ import {
 } from "./data/stations";
 import Calendar from "./Calendar";
 import { getLineBadges, getAllLinesForSystem, stationHasLine } from "./data/lines";
+import wikipediaW from "./assets/wikipedia-w.svg";
 import "./App.css";
 
 function LineBadges({ system, line, stationName }: { system: string; line: string; stationName: string }) {
@@ -31,6 +32,22 @@ function LineBadges({ system, line, stationName }: { system: string; line: strin
       ))}
     </div>
   );
+}
+
+function stationWikiUrl(station: Station): string {
+  if (station.wiki) {
+    return `https://en.wikipedia.org/wiki/${encodeURIComponent(station.wiki)}`;
+  }
+  const q = `${station.name} station ${systems[station.system].city}`;
+  return `https://en.wikipedia.org/w/index.php?search=${encodeURIComponent(q)}`;
+}
+
+function stationMapUrl(station: Station): string {
+  if (station.coords) {
+    return `https://www.google.com/maps/search/?api=1&query=${station.coords[0]},${station.coords[1]}`;
+  }
+  const label = station.wiki?.replace(/_/g, " ") || `${station.name} station ${systems[station.system].city}`;
+  return `https://www.google.com/maps/search/${encodeURIComponent(label)}`;
 }
 
 function StationCard({ station }: { station: Station }) {
@@ -57,6 +74,28 @@ function StationCard({ station }: { station: Station }) {
       <div className="station-details">
         <span className="station-date">Born {formattedDate}</span>
         <span className="station-age">{age} years old</span>
+      </div>
+      <div className="station-links">
+        <a
+          href={stationWikiUrl(station)}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="Wikipedia"
+          className="station-link"
+        >
+          <img src={wikipediaW} alt="Wikipedia" width="14" height="14" />
+        </a>
+        <a
+          href={stationMapUrl(station)}
+          target="_blank"
+          rel="noopener noreferrer"
+          title="View on map"
+          className="station-link"
+        >
+          <svg viewBox="0 0 24 24" width="16" height="16" fill="currentColor">
+            <path d="M12 2C8.13 2 5 5.13 5 9c0 5.25 7 13 7 13s7-7.75 7-13c0-3.87-3.13-7-7-7zm0 9.5c-1.38 0-2.5-1.12-2.5-2.5s1.12-2.5 2.5-2.5 2.5 1.12 2.5 2.5-1.12 2.5-2.5 2.5z"/>
+          </svg>
+        </a>
       </div>
     </div>
   );
