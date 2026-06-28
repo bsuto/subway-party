@@ -9,6 +9,7 @@ import {
   type Station,
 } from "./data/stations";
 import Calendar from "./Calendar";
+import HeroBackground from "./HeroBackground";
 import { getLineBadges, getAllLinesForSystem, stationHasLine } from "./data/lines";
 import wikipediaW from "./assets/wikipedia-w.svg";
 import "./App.css";
@@ -198,9 +199,10 @@ function App() {
 
   return (
     <div className="app">
+      <HeroBackground />
       <header className="app-header">
         <h1>
-          <span className="logo-icon">🚇</span> Subway Party
+          <span className="logo-icon">🚇</span> Subway Party 🎂
         </h1>
         <p className="tagline">Every transit stop has a birthday</p>
         <nav className="nav">
