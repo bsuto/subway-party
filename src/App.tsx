@@ -14,8 +14,8 @@ import { getLineBadges, getAllLinesForSystem, stationHasLine } from "./data/line
 import wikipediaW from "./assets/wikipedia-w.svg";
 import "./App.css";
 
-function LineBadges({ system, line, stationName }: { system: string; line: string; stationName: string }) {
-  const badges = getLineBadges(system, line, stationName);
+function LineBadges({ system, line, stationName, routes }: { system: string; line: string; stationName: string; routes?: string }) {
+  const badges = getLineBadges(system, line, stationName, routes);
   if (badges.length === 0) return null;
 
   const isNyc = system === "nyc";
@@ -71,7 +71,7 @@ function StationCard({ station }: { station: Station }) {
           <span className="station-system">{sys.name}</span>
         </div>
       </div>
-      <LineBadges system={station.system} line={station.line} stationName={station.name} />
+      <LineBadges system={station.system} line={station.line} stationName={station.name} routes={station.routes} />
       <div className="station-details">
         <span className="station-date">Born {formattedDate}</span>
         <span className="station-age">{age} years old</span>
@@ -163,7 +163,7 @@ function App() {
     // Line filter
     if (selectedLine && selectedSystem) {
       filtered = filtered.filter((s) =>
-        stationHasLine(s.system, s.line, s.name, selectedLine)
+        stationHasLine(s.system, s.line, s.name, selectedLine, s.routes)
       );
     }
 

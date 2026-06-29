@@ -2,6 +2,14 @@ import { readFileSync } from "fs";
 
 const scraped = JSON.parse(readFileSync("scripts/scraped-stations.json", "utf8"));
 
+const stationRenames = {
+  "Ronald Reagan WashingtonNational Airport": "Washington National Airport",
+};
+
+for (const s of scraped) {
+  if (stationRenames[s.name]) s.name = stationRenames[s.name];
+}
+
 // MBTA and SEPTA don't have opening dates in their Wikipedia tables,
 // so we maintain these manually.
 const manual = [
@@ -117,7 +125,258 @@ const manual = [
   { name: "Arrott Transportation Center", system: "septa", line: "Market–Frankford", opened: "1922-11-05", wiki: "Arrott_Transportation_Center" },
 ];
 
-const allStations = [...scraped, ...manual];
+// NYC station complexes: physically connected stations that should be merged
+// into a single entry with all routes listed.
+// Source: https://en.wikipedia.org/wiki/New_York_City_Subway_stations#Station_complexes
+const nycComplexes = [
+  {
+    name: "14th Street/Sixth Avenue",
+    wiki: "14th_Street/Sixth_Avenue_station",
+    routes: "1,2,3,F,L,M",
+    merge: ["14th Street/Sixth Avenue"],
+  },
+  {
+    name: "14th Street/Eighth Avenue",
+    wiki: "14th_Street/Eighth_Avenue_station",
+    routes: "A,C,E,L",
+    merge: ["14th Street/Eighth Avenue"],
+  },
+  {
+    name: "14th Street–Union Square",
+    wiki: "14th_Street–Union_Square_station",
+    routes: "4,5,6,L,N,Q,R,W",
+    merge: ["14th Street–Union Square"],
+  },
+  {
+    name: "34th Street–Herald Square",
+    wiki: "34th_Street–Herald_Square_station",
+    routes: "B,D,F,M,N,Q,R,W",
+    merge: ["34th Street–Herald Square"],
+  },
+  {
+    name: "42nd Street–Bryant Park/Fifth Avenue",
+    wiki: "42nd_Street–Bryant_Park/Fifth_Avenue_station",
+    routes: "7,B,D,F,M",
+    merge: ["42nd Street–Bryant Park/Fifth Avenue"],
+  },
+  {
+    name: "59th Street–Columbus Circle",
+    wiki: "59th_Street–Columbus_Circle_station",
+    routes: "1,A,B,C,D",
+    merge: ["59th Street–Columbus Circle"],
+  },
+  {
+    name: "149th Street–Grand Concourse",
+    wiki: "149th_Street–Grand_Concourse_(New_York_City_Subway)",
+    routes: "2,4,5",
+    merge: ["149th Street–Grand Concourse"],
+  },
+  {
+    name: "161st Street–Yankee Stadium",
+    wiki: "161st_Street–Yankee_Stadium_station",
+    routes: "4,B,D",
+    merge: ["161st Street–Yankee Stadium"],
+  },
+  {
+    name: "168th Street",
+    wiki: "168th_Street_station_(New_York_City_Subway)",
+    routes: "1,A,C",
+    merge: ["168th Street"],
+  },
+  {
+    name: "Atlantic Avenue–Barclays Center",
+    wiki: "Atlantic_Avenue–Barclays_Center_station",
+    routes: "2,3,4,5,B,D,N,Q,R,W",
+    merge: ["Atlantic Avenue–Barclays Center", "Atlantic Avenue"],
+  },
+  {
+    name: "Borough Hall/Court Street",
+    wiki: "Borough_Hall/Court_Street_station",
+    routes: "2,3,4,5,R",
+    merge: ["Borough Hall/Court Street"],
+  },
+  {
+    name: "Broadway–Lafayette Street/Bleecker Street",
+    wiki: "Broadway–Lafayette_Street/Bleecker_Street_station",
+    routes: "6,B,D,F,M",
+    merge: ["Broadway–Lafayette Street/Bleecker Street"],
+  },
+  {
+    name: "Broadway Junction",
+    wiki: "Broadway_Junction_station",
+    routes: "A,C,J,L,Z",
+    merge: ["Broadway Junction"],
+  },
+  {
+    name: "Brooklyn Bridge–City Hall/Chambers Street",
+    wiki: "Brooklyn_Bridge–City_Hall/Chambers_Street_station",
+    routes: "4,5,6,J,Z",
+    merge: ["Brooklyn Bridge–City Hall/Chambers Street"],
+  },
+  {
+    name: "Canal Street",
+    wiki: "Canal_Street_station_(New_York_City_Subway)",
+    routes: "6,J,N,Q,R,W,Z",
+    merge: ["Canal Street"],
+  },
+  {
+    name: "Chambers Street–World Trade Center/Park Place/Cortlandt Street",
+    wiki: "Chambers_Street–World_Trade_Center/Park_Place/Cortlandt_Street_station",
+    routes: "2,3,A,C,E,R,W",
+    merge: ["Chambers Street–World Trade Center/Park Place/Cortlandt Street", "Chambers Street"],
+  },
+  {
+    name: "Court Square–23rd Street",
+    wiki: "Court_Square–23rd_Street_station",
+    routes: "7,E,F,G",
+    merge: ["Court Square–23rd Street"],
+  },
+  {
+    name: "Delancey Street/Essex Street",
+    wiki: "Delancey_Street/Essex_Street_station",
+    routes: "F,J,M,Z",
+    merge: ["Delancey Street/Essex Street"],
+  },
+  {
+    name: "Fourth Avenue/Ninth Street",
+    wiki: "Fourth_Avenue/Ninth_Street_station",
+    routes: "F,G,R",
+    merge: ["Fourth Avenue/Ninth Street"],
+  },
+  {
+    name: "Franklin Avenue/Botanic Garden",
+    wiki: "Franklin_Avenue/Botanic_Garden_station",
+    routes: "2,3,4,5,S",
+    merge: ["Franklin Avenue/Botanic Garden"],
+  },
+  {
+    name: "Franklin Avenue",
+    wiki: "Franklin_Avenue_station_(Fulton_Street)",
+    routes: "C,S",
+    merge: ["Franklin Avenue"],
+  },
+  {
+    name: "Fulton Street",
+    wiki: "Fulton_Street_station_(New_York_City_Subway)",
+    routes: "2,3,4,5,A,C,J,Z",
+    merge: ["Fulton Street"],
+  },
+  {
+    name: "Grand Central–42nd Street",
+    wiki: "Grand_Central–42nd_Street_station",
+    routes: "4,5,6,7,S",
+    merge: ["Grand Central–42nd Street"],
+  },
+  {
+    name: "Jay Street–MetroTech",
+    wiki: "Jay_Street–MetroTech_station",
+    routes: "A,C,F,R",
+    merge: ["Jay Street–MetroTech"],
+  },
+  {
+    name: "Lexington Avenue/51st Street",
+    wiki: "Lexington_Avenue/51st_Street_station",
+    routes: "6,E,F",
+    merge: ["Lexington Avenue/51st Street"],
+  },
+  {
+    name: "Lexington Avenue/59th Street",
+    wiki: "Lexington_Avenue/59th_Street_station",
+    routes: "4,5,6,N,R,W",
+    merge: ["Lexington Avenue/59th Street"],
+  },
+  {
+    name: "Metropolitan Avenue/Lorimer Street",
+    wiki: "Metropolitan_Avenue/Lorimer_Street_station",
+    routes: "G,L",
+    merge: ["Metropolitan Avenue/Lorimer Street"],
+  },
+  {
+    name: "Myrtle–Wyckoff Avenues",
+    wiki: "Myrtle–Wyckoff_Avenues_station",
+    routes: "L,M",
+    merge: ["Myrtle–Wyckoff Avenues"],
+  },
+  {
+    name: "62nd Street/New Utrecht Avenue",
+    wiki: "62nd_Street/New_Utrecht_Avenue_station",
+    routes: "D,N",
+    merge: ["62nd Street/New Utrecht Avenue"],
+  },
+  {
+    name: "Jackson Heights–Roosevelt Avenue/74th Street",
+    wiki: "Jackson_Heights–Roosevelt_Avenue/74th_Street_station",
+    routes: "7,E,F,M,R",
+    merge: ["Jackson Heights–Roosevelt Avenue/74th Street"],
+  },
+  {
+    name: "South Ferry/Whitehall Street",
+    wiki: "South_Ferry/Whitehall_Street_station",
+    routes: "1,R,W",
+    merge: ["South Ferry/Whitehall Street"],
+  },
+  {
+    name: "Times Square–42nd Street",
+    wiki: "Times_Square–42nd_Street_station",
+    routes: "1,2,3,7,A,C,E,N,Q,R,W,S",
+    merge: [
+      "Times Square–42nd Street",
+      "Times Square–42nd Street/Port Authority Bus Terminal/Bryant Park/Fifth Avenue",
+      "42nd Street–Port Authority Bus Terminal",
+    ],
+  },
+];
+
+function applyNycComplexes(stations) {
+  const mergeTargets = new Set();
+  for (const complex of nycComplexes) {
+    for (const name of complex.merge) mergeTargets.add(name);
+  }
+
+  const result = [];
+  const consumed = new Set();
+
+  for (const s of stations) {
+    if (s.system !== "nyc" || !mergeTargets.has(s.name)) {
+      result.push(s);
+      continue;
+    }
+    if (consumed.has(s.name)) continue;
+
+    const complex = nycComplexes.find((c) => c.merge.includes(s.name));
+    if (!complex || consumed.has(complex.name + "__done")) continue;
+
+    // Find all entries to merge
+    const components = stations.filter(
+      (st) => st.system === "nyc" && complex.merge.includes(st.name)
+    );
+    for (const c of components) consumed.add(c.name);
+    consumed.add(complex.name + "__done");
+
+    // Use earliest opening date
+    const earliest = components.reduce((a, b) =>
+      a.opened < b.opened ? a : b
+    );
+
+    // Prefer coords from the complex's primary entry, then any component
+    const primaryCoords = components.find((c) => c.name === complex.name);
+    const coordSource = primaryCoords || components.find((c) => c.coords);
+
+    result.push({
+      name: complex.name,
+      system: "nyc",
+      line: earliest.line,
+      opened: earliest.opened,
+      wiki: complex.wiki,
+      coords: coordSource?.coords,
+      routes: complex.routes,
+    });
+  }
+
+  return result;
+}
+
+const allStations = applyNycComplexes([...scraped, ...manual]);
 
 // Sort by system then by name
 allStations.sort((a, b) => {
@@ -190,6 +449,7 @@ async function main() {
   opened: string; // YYYY-MM-DD
   wiki?: string;
   coords?: [number, number]; // [lat, lng]
+  routes?: string;
 }
 
 export const systems: Record<string, { name: string; city: string; color: string; emoji: string }> = {
@@ -210,8 +470,11 @@ export const stations: Station[] = [`);
     const wiki = s.wiki ? `, wiki: "${s.wiki.replace(/"/g, '\\"')}"` : "";
     const c = s.wiki && coords[s.wiki]
       ? `, coords: [${coords[s.wiki][0]}, ${coords[s.wiki][1]}]`
-      : "";
-    lines.push(`  { name: "${name}", system: "${s.system}", line: "${line}", opened: "${s.opened}"${wiki}${c} },`);
+      : s.coords
+        ? `, coords: [${s.coords[0]}, ${s.coords[1]}]`
+        : "";
+    const routes = s.routes ? `, routes: "${s.routes}"` : "";
+    lines.push(`  { name: "${name}", system: "${s.system}", line: "${line}", opened: "${s.opened}"${wiki}${c}${routes} },`);
   }
 
   lines.push(`];

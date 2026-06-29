@@ -115,32 +115,34 @@ const rockawayShuttleStations = new Set([
   "Rockaway Park–Beach 116th Street",
 ]);
 
-function parseNycLine(lineStr: string, stationName?: string): LineBadge[] {
-  if (!lineStr) return [];
+function parseNycLine(lineStr: string, stationName?: string, routes?: string): LineBadge[] {
+  if (!lineStr && !routes) return [];
 
-  // Split on comma — Wikipedia sometimes gives "BMT Brighton Line,IND Culver Line"
-  const lineParts = lineStr.split(",").map((s) => s.trim());
   const routeSet = new Set<string>();
 
-  for (const part of lineParts) {
-    // Strip common prefixes
-    const cleaned = part
-      .replace(/^(BMT|IRT|IND)\s+/, "")
-      .replace(/\s+Line$/, "")
-      .concat(" Line");
+  if (routes) {
+    for (const r of routes.split(",")) routeSet.add(r.trim());
+  } else {
+    const lineParts = lineStr.split(",").map((s) => s.trim());
 
-    const routes = nycLineToRoutes[cleaned] || nycLineToRoutes[part];
-    if (routes) {
-      for (const r of routes) routeSet.add(r);
+    for (const part of lineParts) {
+      const cleaned = part
+        .replace(/^(BMT|IRT|IND)\s+/, "")
+        .replace(/\s+Line$/, "")
+        .concat(" Line");
+
+      const lineRoutes = nycLineToRoutes[cleaned] || nycLineToRoutes[part];
+      if (lineRoutes) {
+        for (const r of lineRoutes) routeSet.add(r);
+      }
+    }
+
+    if (stationName && rockawayShuttleStations.has(stationName)) {
+      routeSet.add("S");
     }
   }
 
-  if (stationName && rockawayShuttleStations.has(stationName)) {
-    routeSet.add("S");
-  }
-
   if (routeSet.size === 0) {
-    // Fallback: if we can't map, just show the line name
     return [{ label: lineStr, bg: "#666", fg: "#fff" }];
   }
 
@@ -339,20 +341,22 @@ export function stationHasLine(
   system: string,
   lineStr: string,
   stationName: string,
-  lineLabel: string
+  lineLabel: string,
+  routes?: string
 ): boolean {
-  const badges = getLineBadges(system, lineStr, stationName);
+  const badges = getLineBadges(system, lineStr, stationName, routes);
   return badges.some((b) => b.label === lineLabel);
 }
 
 export function getLineBadges(
   system: string,
   lineStr: string,
-  stationName?: string
+  stationName?: string,
+  routes?: string
 ): LineBadge[] {
   switch (system) {
     case "nyc":
-      return parseNycLine(lineStr, stationName);
+      return parseNycLine(lineStr, stationName, routes);
 
     case "wmata":
       return splitColorLines(lineStr, wmataLineColors);

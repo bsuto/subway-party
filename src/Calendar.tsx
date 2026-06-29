@@ -84,7 +84,7 @@ function DayDetail({
                 </div>
                 <ul className="day-detail-stations">
                   {group.map((s, i) => {
-                    const badges = getLineBadges(s.system, s.line, s.name);
+                    const badges = getLineBadges(s.system, s.line, s.name, s.routes);
                     const isNyc = s.system === "nyc";
                     return (
                       <li key={i}>
