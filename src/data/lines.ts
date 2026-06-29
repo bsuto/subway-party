@@ -75,7 +75,7 @@ const nycLineToRoutes: Record<string, string[]> = {
   "Culver Line": ["F", "G"],
   "IND Culver Line": ["F", "G"],
   "Fulton Street Line": ["A", "C"],
-  "Rockaway Line": ["A", "S"],
+  "Rockaway Line": ["A"],
   "63rd Street Line": ["F", "Q"],
   "IND 63rd Street Line": ["F", "Q"],
   "Archer Avenue Line": ["E", "J", "Z"],
@@ -107,7 +107,15 @@ const nycLineToRoutes: Record<string, string[]> = {
   "42nd Street Shuttle": ["S"],
 };
 
-function parseNycLine(lineStr: string): LineBadge[] {
+const rockawayShuttleStations = new Set([
+  "Broad Channel",
+  "Beach 90th Street",
+  "Beach 98th Street",
+  "Beach 105th Street",
+  "Rockaway Park–Beach 116th Street",
+]);
+
+function parseNycLine(lineStr: string, stationName?: string): LineBadge[] {
   if (!lineStr) return [];
 
   // Split on comma — Wikipedia sometimes gives "BMT Brighton Line,IND Culver Line"
@@ -125,6 +133,10 @@ function parseNycLine(lineStr: string): LineBadge[] {
     if (routes) {
       for (const r of routes) routeSet.add(r);
     }
+  }
+
+  if (stationName && rockawayShuttleStations.has(stationName)) {
+    routeSet.add("S");
   }
 
   if (routeSet.size === 0) {
@@ -340,7 +352,7 @@ export function getLineBadges(
 ): LineBadge[] {
   switch (system) {
     case "nyc":
-      return parseNycLine(lineStr);
+      return parseNycLine(lineStr, stationName);
 
     case "wmata":
       return splitColorLines(lineStr, wmataLineColors);
