@@ -222,7 +222,9 @@ function App() {
         <h1>
           <span className="logo-icon">🚇</span> Subway Party 🎂
         </h1>
-        <p className="tagline">Every transit stop has a birthday</p>
+        <p className="tagline">
+          I think we should know the birthdays of all public transit stops
+        </p>
         <nav className="nav">
           <button
             className={view === "today" ? "active" : ""}
@@ -428,6 +430,15 @@ function App() {
         <p className="footer-note">
           Data sourced from transit authority records. Some dates are
           approximate.
+        </p>
+        <p className="footer-note">
+          <a
+            href="https://github.com/ecormany/subway-party"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            View source on GitHub
+          </a>
         </p>
       </footer>
     </div>

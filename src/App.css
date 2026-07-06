@@ -732,6 +732,15 @@ footer {
   margin-top: 4px;
 }
 
+.footer-note a {
+  color: var(--text-muted);
+  text-decoration: underline;
+}
+
+.footer-note a:hover {
+  color: var(--accent);
+}
+
 /* Responsive */
 @media (max-width: 640px) {
   .app-header h1 {
