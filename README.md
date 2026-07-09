@@ -42,6 +42,10 @@ npm run dev        # Start dev server at localhost:5173
 npm run build      # Type-check and build for production
 ```
 
+### Analytics (optional)
+
+The app uses [PostHog](https://posthog.com) for usage analytics. It's optional — with no token set, PostHog silently no-ops and the app runs normally with no analytics collected. To enable it, copy `.env.example` to `.env.local` and fill in your PostHog project token.
+
 ### Refreshing station data
 
 ```sh
