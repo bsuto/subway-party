@@ -155,7 +155,7 @@ const manual = [
   { name: "East 116th–St. Luke's", system: "rta", line: "Green,Blue", opened: "1920-04-11", wiki: "East_116th–St._Luke%27s_station" },
   { name: "Shaker Square", system: "rta", line: "Green,Blue", opened: "1920-04-11", wiki: "Shaker_Square_station" },
   { name: "Coventry", system: "rta", line: "Green", opened: "1913-12-17", wiki: "Coventry_station_(GCRTA)" },
-  { name: "Southington", system: "rta", line: "Green", opened: "1913-12-17", wiki: "Southington_station_(GCRTA)" },
+  { name: "Southington", system: "rta", line: "Green", opened: "1913-12-17", wiki: "Southington_station_(GCRTA_Green_Line)" },
   { name: "South Park", system: "rta", line: "Green", opened: "1913-12-17", wiki: "South_Park_station_(GCRTA)" },
   { name: "Lee–Shaker", system: "rta", line: "Green", opened: "1913-12-17", wiki: "Lee_–_Shaker_(RTA_Rapid_Transit_station)" },
   { name: "Attleboro", system: "rta", line: "Green", opened: "1913-12-17", wiki: "Attleboro_station_(GCRTA)" },
